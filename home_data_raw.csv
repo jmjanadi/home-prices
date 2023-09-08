@@ -1,0 +1,458 @@
+,zipcode,city,latitude,longitude,price,bathrooms,bedrooms,livingArea,homeType,lotAreaValue,lotAreaUnit,detailUrl
+0,91791,West Covina,34.0616,-117.89724,669950.0,2.0,3.0,1167.0,SINGLE_FAMILY,0.25149219467401285,acres,https://www.zillow.com/homedetails/733-Lupin-Ln-West-Covina-CA-91791/21571105_zpid/
+1,91791,West Covina,34.055256,-117.906494,998000.0,3.0,3.0,2009.0,SINGLE_FAMILY,0.27392102846648303,acres,https://www.zillow.com/homedetails/1125-S-Cajon-Ave-West-Covina-CA-91791/21574847_zpid/
+2,91790,West Covina,34.07644,-117.92858,714888.0,2.0,3.0,1333.0,SINGLE_FAMILY,7165.0,sqft,https://www.zillow.com/homedetails/1107-W-Teresa-St-West-Covina-CA-91790/21559144_zpid/
+3,91792,West Covina,34.036236,-117.91802,560000.0,2.0,3.0,1152.0,TOWNHOUSE,2.3877,acres,https://www.zillow.com/homedetails/2053-Eveningside-Dr-West-Covina-CA-91792/21692551_zpid/
+4,91790,West Covina,34.076046,-117.93489,799900.0,2.0,3.0,1597.0,SINGLE_FAMILY,7992.0,sqft,https://www.zillow.com/homedetails/310-N-Sunset-Ave-West-Covina-CA-91790/21559375_zpid/
+5,91791,West Covina,34.06158,-117.88071,1350000.0,3.0,3.0,2221.0,SINGLE_FAMILY,0.4431359044995409,acres,https://www.zillow.com/homedetails/3012-E-Charlinda-St-West-Covina-CA-91791/21570639_zpid/
+6,91792,West Covina,34.03639,-117.919975,799900.0,2.0,4.0,1944.0,SINGLE_FAMILY,6862.0,sqft,https://www.zillow.com/homedetails/1244-E-Dore-St-West-Covina-CA-91792/21692509_zpid/
+7,91791,West Covina,34.07266,-117.91405,780000.0,2.0,3.0,1130.0,SINGLE_FAMILY,7094.0,sqft,https://www.zillow.com/homedetails/1506-E-Mardina-St-West-Covina-CA-91791/21558418_zpid/
+8,91791,West Covina,34.049076,-117.88364,1199900.0,2.0,3.0,2198.0,SINGLE_FAMILY,0.37754820936639116,acres,https://www.zillow.com/homedetails/1526-S-Fairway-Knolls-Rd-West-Covina-CA-91791/21575595_zpid/
+9,91744,La Puente,34.048336,-117.91664,699000.0,2.0,3.0,1098.0,SINGLE_FAMILY,8456.0,sqft,https://www.zillow.com/homedetails/17003-Doublegrove-St-La-Puente-CA-91744/21690508_zpid/
+10,91792,West Covina,34.03947,-117.91927,528000.0,2.0,3.0,1152.0,CONDO,0.8464187327823691,acres,https://www.zillow.com/homedetails/1319-Peppertree-Cir-231-West-Covina-CA-91792/21692758_zpid/
+11,91790,West Covina,34.08427,-117.93048,849888.0,2.0,3.0,1239.0,SINGLE_FAMILY,6592.0,sqft,https://www.zillow.com/homedetails/1211-W-Louisa-Ave-West-Covina-CA-91790/21551490_zpid/
+12,91791,West Covina,34.05302,-117.871284,1780000.0,4.0,4.0,3509.0,SINGLE_FAMILY,0.596900826446281,acres,https://www.zillow.com/homedetails/1003-Highlight-Dr-West-Covina-CA-91791/21487691_zpid/
+13,91791,West Covina,34.049644,-117.88332,1399999.0,3.0,4.0,2966.0,SINGLE_FAMILY,0.3589531680440771,acres,https://www.zillow.com/homedetails/1520-S-Fairway-Knolls-Rd-West-Covina-CA-91791/21575597_zpid/
+14,91792,West Covina,34.022564,-117.896835,711000.0,2.0,4.0,1312.0,SINGLE_FAMILY,5571.0,sqft,https://www.zillow.com/homedetails/3040-S-Betsy-St-West-Covina-CA-91792/21684843_zpid/
+15,91791,West Covina,34.068123,-117.8743,1980000.0,5.0,5.0,5744.0,SINGLE_FAMILY,0.3966483011937557,acres,https://www.zillow.com/homedetails/300-S-Snyder-Pl-West-Covina-CA-91791/21569899_zpid/
+16,91791,West Covina,34.068798,-117.88382,729900.0,3.0,3.0,1940.0,CONDO,2073.0,sqft,https://www.zillow.com/homedetails/232-Brandywine-Ct-West-Covina-CA-91791/21570008_zpid/
+17,91791,West Covina,34.062653,-117.89641,780000.0,2.0,4.0,1662.0,SINGLE_FAMILY,8900.0,sqft,https://www.zillow.com/homedetails/2309-E-Evergreen-Ave-West-Covina-CA-91791/21571013_zpid/
+18,91792,West Covina,34.017788,-117.904976,870000.0,2.0,4.0,1504.0,SINGLE_FAMILY,9864.0,sqft,https://www.zillow.com/homedetails/1910-Gemini-St-West-Covina-CA-91792/21685362_zpid/
+19,91790,West Covina,34.060375,-117.94856,599000.0,3.0,2.0,1552.0,CONDO,7.8061,acres,https://www.zillow.com/homedetails/1417-Athena-West-Covina-CA-91790/21564799_zpid/
+20,91791,West Covina,34.043804,-117.892426,3468000.0,7.0,6.0,5556.0,SINGLE_FAMILY,0.559297520661157,acres,https://www.zillow.com/homedetails/2801-Mountain-Ridge-Rd-West-Covina-CA-91791/95596437_zpid/
+21,91790,West Covina,34.053364,-117.929085,869999.0,3.0,4.0,1599.0,SINGLE_FAMILY,10554.0,sqft,https://www.zillow.com/homedetails/819-E-Michelle-St-West-Covina-CA-91790/21573530_zpid/
+22,91792,West Covina,34.027946,-117.90439,920000.0,3.0,6.0,1960.0,SINGLE_FAMILY,5959.0,sqft,https://www.zillow.com/homedetails/1916-E-Lainie-St-West-Covina-CA-91792/21688395_zpid/
+23,91790,West Covina,34.067867,-117.9291,688000.0,1.0,3.0,1322.0,SINGLE_FAMILY,7489.0,sqft,https://www.zillow.com/homedetails/919-W-Blue-Ash-Rd-West-Covina-CA-91790/21567925_zpid/
+24,91790,West Covina,34.069183,-117.943245,654000.0,3.0,3.0,1491.0,SINGLE_FAMILY,,,https://www.zillow.com/community/west-cameron/2057077774_zpid/
+25,91791,West Covina,34.069736,-117.87839,1298800.0,3.0,4.0,2364.0,SINGLE_FAMILY,0.43172635445362717,acres,https://www.zillow.com/homedetails/3110-Joy-St-West-Covina-CA-91791/21570229_zpid/
+26,91791,West Covina,34.06502,-117.87264,1400000.0,3.0,5.0,2865.0,SINGLE_FAMILY,0.3565426997245179,acres,https://www.zillow.com/homedetails/525-S-Trona-Ave-West-Covina-CA-91791/21570126_zpid/
+27,91790,West Covina,34.074947,-117.9268,779000.0,3.0,3.0,1465.0,SINGLE_FAMILY,,,https://www.zillow.com/community/valencia-at-vincent-place/2057642511_zpid/
+28,91791,West Covina,34.07583,-117.91629,850000.0,3.0,4.0,1878.0,SINGLE_FAMILY,8724.0,sqft,https://www.zillow.com/homedetails/1405-E-Workman-Ave-West-Covina-CA-91791/21558135_zpid/
+29,91792,West Covina,34.045753,-117.91618,849000.0,2.0,4.0,1861.0,SINGLE_FAMILY,0.30133149678604226,acres,https://www.zillow.com/homedetails/1413-E-Maplegrove-St-West-Covina-CA-91792/21690399_zpid/
+30,91791,West Covina,34.069923,-117.873024,999000.0,3.0,4.0,2588.0,SINGLE_FAMILY,4910.0,sqft,https://www.zillow.com/homedetails/3340-E-Springcreek-Rd-West-Covina-CA-91791/65247627_zpid/
+31,91792,West Covina,34.022488,-117.8947,868000.0,3.0,4.0,1715.0,SINGLE_FAMILY,5004.0,sqft,https://www.zillow.com/homedetails/2421-E-Gloria-St-West-Covina-CA-91792/21684667_zpid/
+32,91791,West Covina,34.06896,-117.88511,1450000.0,3.0,4.0,2783.0,SINGLE_FAMILY,0.3622130394857668,acres,https://www.zillow.com/homedetails/228-S-Plateau-Dr-West-Covina-CA-91791/21569966_zpid/
+33,91791,West Covina,34.04717,-117.891266,2388000.0,4.0,5.0,4106.0,SINGLE_FAMILY,0.47235996326905416,acres,https://www.zillow.com/homedetails/2843-Mountain-Ridge-Rd-West-Covina-CA-91791/21576273_zpid/
+34,91790,West Covina,34.08467,-117.93008,1288888.0,4.0,7.0,2454.0,MULTI_FAMILY,10022.0,sqft,https://www.zillow.com/homedetails/758-N-Ellen-Dr-West-Covina-CA-91790/21551493_zpid/
+35,91791,West Covina,34.07017,-117.87704,888000.0,3.0,4.0,1970.0,CONDO,,,https://www.zillow.com/homedetails/3206-Willow-Creek-Rd-West-Covina-CA-91791/243991785_zpid/
+36,91791,West Covina,34.072643,-117.91083,800000.0,2.0,3.0,1118.0,SINGLE_FAMILY,6664.0,sqft,https://www.zillow.com/homedetails/1626-E-Mardina-St-West-Covina-CA-91791/21558391_zpid/
+37,91791,West Covina,34.04989,-117.867134,2059990.0,4.0,5.0,4874.0,SINGLE_FAMILY,0.5319100091827365,acres,https://www.zillow.com/homedetails/1063-Holiday-Dr-West-Covina-CA-91791/21487726_zpid/
+38,91791,West Covina,34.080673,-117.91002,909990.0,3.0,3.0,1637.0,SINGLE_FAMILY,2200.0,sqft,https://www.zillow.com/homedetails/1663-Rosewell-Rd-West-Covina-CA-91791/2056599716_zpid/
+39,91791,West Covina,34.048515,-117.90093,1399000.0,3.0,3.0,2760.0,SINGLE_FAMILY,0.33562901744719925,acres,https://www.zillow.com/homedetails/2117-E-Kings-Crest-Dr-West-Covina-CA-91791/21575634_zpid/
+40,91790,West Covina,34.067913,-117.94296,789000.0,4.0,4.0,1880.0,CONDO,0.4214876033057851,acres,https://www.zillow.com/homedetails/727-Hudson-Ln-West-Covina-CA-91790/2077619491_zpid/
+41,91790,West Covina,34.05004,-117.92723,898000.0,2.0,3.0,1424.0,SINGLE_FAMILY,0.30415518824609733,acres,https://www.zillow.com/homedetails/916-E-Francisquito-Ave-West-Covina-CA-91790/21691035_zpid/
+42,91791,West Covina,34.049522,-117.89428,3199000.0,6.0,5.0,4871.0,SINGLE_FAMILY,0.4602157943067034,acres,https://www.zillow.com/homedetails/2813-Countrywood-Ln-West-Covina-CA-91791/21576226_zpid/
+43,91791,West Covina,34.080097,-117.909615,789990.0,3.0,2.0,1585.0,TOWNHOUSE,,,https://www.zillow.com/homedetails/513-Tamarind-Way-A-West-Covina-CA-91791/2056377131_zpid/
+44,91790,West Covina,34.05326,-117.940445,860000.0,2.0,4.0,2548.0,SINGLE_FAMILY,7866.0,sqft,https://www.zillow.com/homedetails/1334-S-Glendora-Ave-West-Covina-CA-91790/21573740_zpid/
+45,91790,West Covina,34.063282,-117.91869,999000.0,2.0,3.0,1414.0,SINGLE_FAMILY,8143.0,sqft,https://www.zillow.com/homedetails/1257-E-Mobeck-St-West-Covina-CA-91790/21571903_zpid/
+46,91792,West Covina,34.04065,-117.920715,749800.0,3.0,3.0,2034.0,CONDO,1.2238,acres,https://www.zillow.com/homedetails/1206-Tina-Ln-West-Covina-CA-91792/21690266_zpid/
+47,91790,West Covina,34.07274,-117.92118,675000.0,1.0,2.0,1008.0,SINGLE_FAMILY,7459.0,sqft,https://www.zillow.com/homedetails/1222-E-Mardina-St-West-Covina-CA-91790/21559021_zpid/
+48,91792,West Covina,34.031174,-117.90703,1399950.0,7.0,9.0,4050.0,MULTI_FAMILY,10597.0,sqft,https://www.zillow.com/homedetails/1729-E-Nanette-Ave-West-Covina-CA-91792/21688313_zpid/
+49,91791,West Covina,34.056656,-117.91333,1150000.0,3.0,3.0,2146.0,SINGLE_FAMILY,0.4233241505968779,acres,https://www.zillow.com/homedetails/1529-E-Portner-St-West-Covina-CA-91791/21574313_zpid/
+50,91790,West Covina,34.074947,-117.9268,880000.0,3.0,4.0,2125.0,SINGLE_FAMILY,,,https://www.zillow.com/community/valencia-at-vincent-place/2057642500_zpid/
+51,91791,West Covina,34.080734,-117.90982,844990.0,3.0,3.0,1483.0,SINGLE_FAMILY,2200.0,sqft,https://www.zillow.com/homedetails/1661-Rosewell-Rd-West-Covina-CA-91791/2056999213_zpid/
+52,91791,West Covina,34.068947,-117.9081,926000.0,2.0,4.0,1933.0,SINGLE_FAMILY,7076.0,sqft,https://www.zillow.com/homedetails/235-S-Azusa-Ave-West-Covina-CA-91791/21568497_zpid/
+53,91790,West Covina,34.069183,-117.943245,613000.0,3.0,2.0,1216.0,SINGLE_FAMILY,,,https://www.zillow.com/community/west-cameron/2057077775_zpid/
+54,91791,West Covina,34.049557,-117.89369,2998000.0,6.0,6.0,5479.0,SINGLE_FAMILY,0.4610422405876951,acres,https://www.zillow.com/homedetails/2821-Countrywood-Ln-West-Covina-CA-91791/21576228_zpid/
+55,91790,West Covina,34.074947,-117.9268,858000.0,3.0,4.0,1955.0,SINGLE_FAMILY,,,https://www.zillow.com/community/valencia-at-vincent-place/2057635474_zpid/
+56,91790,West Covina,34.069183,-117.943245,714000.0,3.0,3.0,1791.0,SINGLE_FAMILY,,,https://www.zillow.com/community/west-cameron/2057077773_zpid/
+57,91791,West Covina,34.05075,-117.91296,1198000.0,3.0,2.0,1640.0,SINGLE_FAMILY,0.675068870523416,acres,https://www.zillow.com/homedetails/17213-E-Francisquito-Ave-West-Covina-CA-91791/21574474_zpid/
+58,91791,West Covina,34.0804,-117.91,679990.0,3.0,2.0,1318.0,TOWNHOUSE,,,https://www.zillow.com/community/asteria-jade/2060513244_zpid/
+59,91791,West Covina,34.0804,-117.91,844990.0,3.0,3.0,1483.0,SINGLE_FAMILY,,,https://www.zillow.com/community/asteria-topaz/2060513234_zpid/
+60,91790,West Covina,34.074947,-117.9268,654000.0,3.0,3.0,1497.0,TOWNHOUSE,,,https://www.zillow.com/community/seville-at-vincent-place/2057642512_zpid/
+61,91791,West Covina,34.0804,-117.91,909990.0,3.0,3.0,1637.0,SINGLE_FAMILY,,,https://www.zillow.com/community/asteria-topaz/2060513231_zpid/
+62,91791,West Covina,34.0804,-117.91,994990.0,3.0,4.0,1826.0,SINGLE_FAMILY,,,https://www.zillow.com/community/asteria-topaz/2060513233_zpid/
+63,91791,West Covina,34.0804,-117.91,844990.0,3.0,3.0,1483.0,SINGLE_FAMILY,,,https://www.zillow.com/community/asteria-topaz/2060513235_zpid/
+64,91791,West Covina,34.0804,-117.91,994990.0,3.0,4.0,1826.0,SINGLE_FAMILY,,,https://www.zillow.com/community/asteria-topaz/2060513236_zpid/
+65,91791,West Covina,34.0804,-117.91,909990.0,3.0,3.0,1637.0,SINGLE_FAMILY,,,https://www.zillow.com/community/asteria-topaz/2060513232_zpid/
+66,91791,West Covina,34.0804,-117.91,679990.0,3.0,2.0,1318.0,TOWNHOUSE,,,https://www.zillow.com/community/asteria-jade/2060513253_zpid/
+67,91791,West Covina,34.0804,-117.91,764990.0,3.0,2.0,1585.0,TOWNHOUSE,,,https://www.zillow.com/community/asteria-jade/2060513246_zpid/
+68,91791,West Covina,34.0804,-117.91,679990.0,3.0,2.0,1318.0,TOWNHOUSE,,,https://www.zillow.com/community/asteria-jade/2060513248_zpid/
+69,91790,West Covina,34.07294,-117.93149,850000.0,3.0,4.0,1782.0,SINGLE_FAMILY,7467.0,sqft,https://www.zillow.com/homedetails/117-N-Ellen-Dr-West-Covina-CA-91790/21559461_zpid/
+70,91791,West Covina,34.0804,-117.91,799990.0,4.0,3.0,1697.0,TOWNHOUSE,,,https://www.zillow.com/community/asteria-jade/2060513255_zpid/
+71,91791,West Covina,34.0804,-117.91,679990.0,3.0,2.0,1318.0,TOWNHOUSE,,,https://www.zillow.com/community/asteria-jade/2060513247_zpid/
+72,91790,West Covina,34.074947,-117.9268,613000.0,3.0,2.0,1216.0,TOWNHOUSE,,,https://www.zillow.com/community/seville-at-vincent-place/2057642501_zpid/
+73,91791,West Covina,34.0804,-117.91,679990.0,3.0,2.0,1318.0,TOWNHOUSE,,,https://www.zillow.com/community/asteria-jade/2060513250_zpid/
+74,91790,West Covina,34.074947,-117.9268,714000.0,3.0,3.0,1791.0,TOWNHOUSE,,,https://www.zillow.com/community/seville-at-vincent-place/2057642506_zpid/
+75,91792,West Covina,,,450000.0,,,,LOT,0.3314279155188246,acres,https://www.zillow.com/homedetails/0-S-Lark-Ellen-Ave-West-Covina-CA-91792/2070950438_zpid/
+76,91791,West Covina,,,450000.0,,,,LOT,0.9229338842975207,acres,https://www.zillow.com/homedetails/0-Via-Caballos-West-Covina-CA-91791/2078543068_zpid/
+77,91790,West Covina,,,1300000.0,,,,LOT,8570.0,sqft,https://www.zillow.com/homedetails/230-S-Glendora-Ave-West-Covina-CA-91790/2103690925_zpid/
+78,91722,Covina,34.09839,-117.90764,137000.0,2.0,2.0,,MANUFACTURED,,,https://www.zillow.com/homedetails/1045-N-Azusa-Ave-Covina-CA-91722/136522189_zpid/
+79,91723,Covina,34.07614,-117.88808,624000.0,1.0,2.0,832.0,SINGLE_FAMILY,6355.0,sqft,https://www.zillow.com/homedetails/726-S-Palmetto-Ave-Covina-CA-91723/21556811_zpid/
+80,91724,Covina,34.085327,-117.86209,875000.0,3.0,4.0,1852.0,SINGLE_FAMILY,10778.0,sqft,https://www.zillow.com/homedetails/139-S-Wilbur-Ave-Covina-CA-91724/21545140_zpid/
+81,91722,Covina,34.104397,-117.893326,688000.0,2.0,4.0,1175.0,SINGLE_FAMILY,6748.0,sqft,https://www.zillow.com/homedetails/237-W-Devanah-St-Covina-CA-91722/21538948_zpid/
+82,91722,Covina,34.104744,-117.888885,139999.0,2.0,3.0,,MANUFACTURED,,,https://www.zillow.com/homedetails/1380-N-Citrus-Ave-TRAILER-D9-Covina-CA-91722/136705735_zpid/
+83,91724,Covina,34.078354,-117.85775,1448888.0,3.0,5.0,2888.0,SINGLE_FAMILY,0.469742883379247,acres,https://www.zillow.com/homedetails/3436-Rancho-Rio-Bonita-Rd-Covina-CA-91724/21555256_zpid/
+84,91724,Covina,34.10651,-117.84088,239000.0,2.0,3.0,1176.0,MANUFACTURED,,,https://www.zillow.com/homedetails/21210-E-Arrow-Hwy-TRAILER-42-Covina-CA-91724/136705374_zpid/
+85,91724,Covina,34.090885,-117.860916,770000.0,2.0,3.0,1364.0,SINGLE_FAMILY,7969.0,sqft,https://www.zillow.com/homedetails/444-N-Rimhurst-Ave-Covina-CA-91724/21546254_zpid/
+86,91724,Covina,34.10515,-117.84752,560000.0,3.0,3.0,1291.0,TOWNHOUSE,3.0003,acres,https://www.zillow.com/homedetails/20821-E-Calora-St-APT-E8-Covina-CA-91724/21535007_zpid/
+87,91723,Covina,34.086487,-117.8837,649800.0,2.0,2.0,1176.0,MULTI_FAMILY,5182.0,sqft,https://www.zillow.com/homedetails/383-E-Badillo-St-Covina-CA-91723/21553774_zpid/
+88,91723,Covina,34.084984,-117.8826,599995.0,3.0,3.0,1414.0,TOWNHOUSE,0.9969467401285583,acres,https://www.zillow.com/homedetails/427-E-Algrove-St-Covina-CA-91723/21553860_zpid/
+89,91724,Covina,34.076447,-117.84838,1325000.0,3.0,5.0,3026.0,SINGLE_FAMILY,0.5058769513314968,acres,https://www.zillow.com/homedetails/751-S-Rancho-Simi-Dr-Covina-CA-91724/21555475_zpid/
+90,91724,Covina,34.080887,-117.86261,900000.0,3.0,4.0,1854.0,SINGLE_FAMILY,10329.0,sqft,https://www.zillow.com/homedetails/1336-E-Navilla-Pl-Covina-CA-91724/21554651_zpid/
+91,91723,Covina,34.07622,-117.876564,888000.0,2.0,3.0,1484.0,SINGLE_FAMILY,9422.0,sqft,https://www.zillow.com/homedetails/711-E-Camellia-Dr-Covina-CA-91723/21557045_zpid/
+92,91724,Covina,34.072422,-117.85178,4200000.0,7.0,8.0,5745.0,SINGLE_FAMILY,4.5225,acres,https://www.zillow.com/homedetails/20620-E-Covina-Hills-Rd-Covina-CA-91724/21555749_zpid/
+93,91724,Covina,34.101048,-117.84565,560000.0,3.0,2.0,1131.0,CONDO,0.8607667584940312,acres,https://www.zillow.com/homedetails/1190-N-Sunflower-Ave-Covina-CA-91724/21535416_zpid/
+94,91724,Covina,34.081482,-117.84954,1099800.0,3.0,4.0,2265.0,SINGLE_FAMILY,0.254178145087236,acres,https://www.zillow.com/homedetails/1946-E-Rancho-Culebra-Dr-Covina-CA-91724/21555557_zpid/
+95,91722,Covina,34.095078,-117.90719,835900.0,2.0,3.0,1590.0,SINGLE_FAMILY,0.2764692378328742,acres,https://www.zillow.com/homedetails/865-W-Chester-Rd-Covina-CA-91722/21548631_zpid/
+96,91724,Covina,34.07917,-117.85517,1599000.0,4.0,4.0,3221.0,SINGLE_FAMILY,0.8117998163452709,acres,https://www.zillow.com/homedetails/20425-E-Rancho-Los-Cerritos-Rd-Covina-CA-91724/21555369_zpid/
+97,91722,Covina,34.09839,-117.90764,85000.0,1.0,2.0,440.0,MANUFACTURED,,,https://www.zillow.com/homedetails/1045-N-Azusa-Ave-TRAILER-99-Covina-CA-91722/136705851_zpid/
+98,91724,Covina,34.064743,-117.85844,4980000.0,7.0,5.0,7238.0,SINGLE_FAMILY,4.3238,acres,https://www.zillow.com/homedetails/20224-E-Lorencita-Dr-Covina-CA-91724/21487250_zpid/
+99,91724,Covina,34.10119,-117.87173,499000.0,2.0,2.0,1095.0,CONDO,2.2873,acres,https://www.zillow.com/homedetails/4900-N-Grand-Ave-APT-351-Covina-CA-91724/21538024_zpid/
+100,91722,Covina,34.08794,-117.911865,432900.0,2.0,1.0,736.0,TOWNHOUSE,,,https://www.zillow.com/community/flats-towns-at-covina-bowl/2058999082_zpid/
+101,91722,Covina,,,475000.0,2.0,2.0,922.0,CONDO,1.3185,acres,https://www.zillow.com/homedetails/Covina-CA-91722/21635503_zpid/
+102,91723,Covina,34.0887,-117.88645,365000.0,,,,LOT,7021.0,sqft,https://www.zillow.com/homedetails/247-E-Italia-St-Covina-CA-91723/21547853_zpid/
+103,91722,Covina,34.09839,-117.90764,75000.0,2.0,2.0,720.0,MANUFACTURED,,,https://www.zillow.com/homedetails/1045-N-Azusa-Ave-TRLR-48-Covina-CA-91722/2117965082_zpid/
+104,91722,Covina,,,702829.0,4.0,3.0,1573.0,CONDO,,,https://www.zillow.com/homedetails/258-Pin-Ln-Covina-CA-91722/2056105672_zpid/
+105,91724,Covina,34.06784,-117.86596,2890000.0,5.0,5.0,5000.0,SINGLE_FAMILY,1.182,acres,https://www.zillow.com/homedetails/2903-N-Monte-Verde-Dr-Covina-CA-91724/21487332_zpid/
+106,91722,Covina,34.09411,-117.925865,684000.0,1.0,3.0,956.0,SINGLE_FAMILY,6611.0,sqft,https://www.zillow.com/homedetails/4469-N-Vincent-Ave-Covina-CA-91722/21542423_zpid/
+107,91723,Covina,34.09131,-117.89284,665000.0,3.0,3.0,1620.0,TOWNHOUSE,0.8880624426078971,acres,https://www.zillow.com/homedetails/534-N-Cabernet-Dr-Covina-CA-91723/79802743_zpid/
+108,91722,Covina,34.09545,-117.90578,725000.0,2.0,3.0,1370.0,SINGLE_FAMILY,8858.0,sqft,https://www.zillow.com/homedetails/808-W-Cypress-St-Covina-CA-91722/21548621_zpid/
+109,91722,Covina,34.10455,-117.880005,774995.0,3.0,4.0,1963.0,SINGLE_FAMILY,3461.0,sqft,https://www.zillow.com/homedetails/556-E-Calora-St-Covina-CA-91722/21538349_zpid/
+110,91724,Covina,34.105156,-117.847534,499999.0,3.0,2.0,1212.0,CONDO,3.0003,acres,https://www.zillow.com/homedetails/20801-E-Calora-St-APT-H3-Covina-CA-91724/21535038_zpid/
+111,91724,Covina,34.09102,-117.846756,3280000.0,6.0,7.0,7349.0,SINGLE_FAMILY,1.1541,acres,https://www.zillow.com/homedetails/4305-N-Sunflower-Ave-Covina-CA-91724/21545487_zpid/
+112,91722,Covina,34.097748,-117.9209,595000.0,1.0,3.0,964.0,SINGLE_FAMILY,6142.0,sqft,https://www.zillow.com/homedetails/16703-E-Benwood-St-Covina-CA-91722/21543105_zpid/
+113,91724,Covina,34.07407,-117.85982,2295000.0,6.0,5.0,4800.0,SINGLE_FAMILY,1.0474,acres,https://www.zillow.com/homedetails/1466-E-Covina-Hills-Rd-Covina-CA-91724/21555238_zpid/
+114,91724,Covina,34.093483,-117.87064,75000.0,2.0,2.0,820.0,MANUFACTURED,,,https://www.zillow.com/homedetails/716-N-Grand-Ave-TRAILER-B4-Covina-CA-91724/136705998_zpid/
+115,91724,Covina,34.08141,-117.854195,3180000.0,6.0,5.0,5700.0,SINGLE_FAMILY,1.0522,acres,https://www.zillow.com/homedetails/20543-Rancho-La-Floresta-Rd-Covina-CA-91724/21555531_zpid/
+116,91724,Covina,34.093483,-117.87064,80000.0,1.0,2.0,800.0,MANUFACTURED,,,https://www.zillow.com/homedetails/716-N-Grand-Ave-TRAILER-H6-Covina-CA-91724/136706032_zpid/
+117,91724,Covina,34.095207,-117.870834,109900.0,1.0,1.0,340.0,MANUFACTURED,,,https://www.zillow.com/homedetails/19548-E-Cypress-St-TRAILER-44-Covina-CA-91724/2056298772_zpid/
+118,91722,Covina,34.0972,-117.90593,718000.0,4.0,3.0,1747.0,CONDO,7133.0,sqft,https://www.zillow.com/homedetails/1179-Tangerine-Dr-Covina-CA-91722/325627161_zpid/
+119,91723,Covina,34.092854,-117.88181,432900.0,2.0,1.0,736.0,TOWNHOUSE,,,https://www.zillow.com/community/flats-towns-at-zest/2058999064_zpid/
+120,91724,Covina,34.05663,-117.8626,1899999.0,6.0,6.0,5543.0,SINGLE_FAMILY,0.8732782369146006,acres,https://www.zillow.com/homedetails/2358-Cameron-Ave-Covina-CA-91724/21487547_zpid/
+121,91722,Covina,34.09839,-117.90764,131000.0,2.0,3.0,0.0,MANUFACTURED,,,https://www.zillow.com/homedetails/1045-N-Azusa-Ave-58-Covina-CA-91722/136705814_zpid/
+122,91724,Covina,,,79000.0,1.0,0.0,255.0,MANUFACTURED,,,https://www.zillow.com/homedetails/19548-E-Cypress-St-4-Covina-CA-91724/2068217436_zpid/
+123,91723,Covina,34.07701,-117.88833,699880.0,1.0,3.0,1266.0,SINGLE_FAMILY,6308.0,sqft,https://www.zillow.com/homedetails/169-E-Loma-Vista-St-Covina-CA-91723/21556805_zpid/
+124,91724,Covina,34.087074,-117.86226,630000.0,3.0,3.0,1412.0,CONDO,,,https://www.zillow.com/homedetails/180-N-Glendora-Ave-87-Covina-CA-91724/21546712_zpid/
+125,91724,Covina,34.084465,-117.84673,3500000.0,6.0,8.0,5604.0,SINGLE_FAMILY,1.434,acres,https://www.zillow.com/homedetails/20827-E-Mesarica-Rd-Covina-CA-91724/21545574_zpid/
+126,91724,Covina,34.057323,-117.85682,299000.0,,,,LOT,0.8984159779614325,acres,https://www.zillow.com/homedetails/2117-S-Buenos-Aires-Dr-Covina-CA-91724/95631205_zpid/
+127,91724,Covina,34.102547,-117.84432,1150000.0,3.0,5.0,1800.0,SINGLE_FAMILY,0.5640495867768595,acres,https://www.zillow.com/homedetails/21062-E-Cienega-Ave-Covina-CA-91724/21535391_zpid/
+128,91723,Covina,34.077923,-117.88656,1600000.0,5.0,8.0,3690.0,MULTI_FAMILY,7104.636,sqft,https://www.zillow.com/homedetails/645-S-Eremland-Dr-Covina-CA-91723/2090158637_zpid/
+129,91722,Covina,34.08815,-117.91175,692000.0,3.0,1.0,1705.0,SINGLE_FAMILY,,,https://www.zillow.com/community/rows-at-covina-bowl/2058999042_zpid/
+130,91722,Covina,34.08794,-117.911865,655900.0,2.0,3.0,1827.0,TOWNHOUSE,,,https://www.zillow.com/community/flats-towns-at-covina-bowl/2058999061_zpid/
+131,91724,Covina,34.095207,-117.870834,99000.0,1.0,1.0,480.0,MANUFACTURED,,,https://www.zillow.com/homedetails/19548-E-Cypress-St-TRAILER-39-Covina-CA-91724/250349956_zpid/
+132,91723,Covina,34.086815,-117.89869,385000.0,,,,LOT,8187.0,sqft,https://www.zillow.com/homedetails/0-N-Hollenbeck-Ave-Covina-CA-91723/2058228869_zpid/
+133,91723,Covina,34.092854,-117.88181,498900.0,2.0,1.0,935.0,TOWNHOUSE,,,https://www.zillow.com/community/flats-towns-at-zest/2058999071_zpid/
+134,91724,Covina,34.093483,-117.87064,90000.0,1.0,1.0,,MANUFACTURED,,,https://www.zillow.com/homedetails/716-N-Grand-Ave-TRLR-J1-Covina-CA-91724/2103264204_zpid/
+135,91723,Covina,34.091255,-117.884476,949000.0,3.0,7.0,1749.0,SINGLE_FAMILY,7847.0,sqft,https://www.zillow.com/homedetails/336-E-Front-St-Covina-CA-91723/21547833_zpid/
+136,91722,Covina,34.08794,-117.911865,527900.0,2.0,1.0,1083.0,TOWNHOUSE,,,https://www.zillow.com/community/flats-towns-at-covina-bowl/2058999085_zpid/
+137,91723,Covina,34.086815,-117.89869,465000.0,,,,LOT,10375.0,sqft,https://www.zillow.com/homedetails/1-N-Hollenbeck-Ave-Covina-CA-91723/2058145529_zpid/
+138,91722,Covina,34.08794,-117.911865,618400.0,3.0,3.0,1486.0,TOWNHOUSE,,,https://www.zillow.com/community/flats-towns-at-covina-bowl/2058999092_zpid/
+139,91722,Covina,34.08794,-117.911865,489900.0,2.0,1.0,935.0,TOWNHOUSE,,,https://www.zillow.com/community/flats-towns-at-covina-bowl/2058999093_zpid/
+140,91723,Covina,34.092854,-117.88181,611900.0,3.0,3.0,1493.0,TOWNHOUSE,,,https://www.zillow.com/community/flats-towns-at-zest/2058999067_zpid/
+141,91723,Covina,34.092804,-117.88184,689900.0,1.0,1.0,1672.0,SINGLE_FAMILY,,,https://www.zillow.com/community/rows-at-zest/2058999049_zpid/
+142,91722,Covina,34.08815,-117.91175,678000.0,4.0,1.0,1573.0,TOWNHOUSE,,,https://www.zillow.com/community/rows-at-covina-bowl/2058999035_zpid/
+143,91723,Covina,34.092804,-117.88184,670900.0,3.0,1.0,1661.0,TOWNHOUSE,,,https://www.zillow.com/community/rows-at-zest/2058999044_zpid/
+144,91723,Covina,34.092854,-117.88181,547900.0,2.0,1.0,1092.0,TOWNHOUSE,,,https://www.zillow.com/community/flats-towns-at-zest/2058999063_zpid/
+145,91722,Covina,34.08794,-117.911865,663900.0,2.0,2.0,1540.0,TOWNHOUSE,,,https://www.zillow.com/community/flats-towns-at-covina-bowl/2058999069_zpid/
+146,91722,Covina,34.08794,-117.911865,661900.0,4.0,3.0,1629.0,TOWNHOUSE,,,https://www.zillow.com/community/flats-towns-at-covina-bowl/2058999066_zpid/
+147,91723,Covina,34.092854,-117.88181,646500.0,2.0,3.0,1827.0,TOWNHOUSE,,,https://www.zillow.com/community/flats-towns-at-zest/2058999062_zpid/
+148,91723,Covina,34.093285,-117.88175,646500.0,2.0,3.0,1827.0,CONDO,,,https://www.zillow.com/homedetails/692-Cara-Ln-Covina-CA-91723/2057327595_zpid/
+149,91723,Covina,34.092854,-117.88181,668900.0,2.0,2.0,1544.0,TOWNHOUSE,,,https://www.zillow.com/community/flats-towns-at-zest/2058999068_zpid/
+150,91723,Covina,34.092854,-117.88181,670900.0,4.0,3.0,1629.0,TOWNHOUSE,,,https://www.zillow.com/community/flats-towns-at-zest/2058999070_zpid/
+151,91723,Covina,,,670400.0,4.0,3.0,1629.0,CONDO,,,https://www.zillow.com/homedetails/709-Cara-Ln-Covina-CA-91723/2056453468_zpid/
+152,91723,Covina,,,618400.0,3.0,3.0,1486.0,CONDO,,,https://www.zillow.com/homedetails/289-Strike-Dr-Covina-CA-91723/2056453842_zpid/
+153,91722,Covina,,,678000.0,4.0,3.0,1573.0,CONDO,,,https://www.zillow.com/homedetails/229-Scratch-Rd-Covina-CA-91722/2056454050_zpid/
+154,91723,Covina,,,619400.0,3.0,3.0,1486.0,CONDO,,,https://www.zillow.com/homedetails/707-Cara-Ln-Covina-CA-91723/2056453750_zpid/
+155,91724,Covina,34.069218,-117.83492,988888.0,,,,LOT,0.933149678604224,acres,https://www.zillow.com/homedetails/21544-E-Covina-Hills-Rd-Covina-CA-91724/136534663_zpid/
+156,91724,Covina,34.073017,-117.8497,2980000.0,,,,LOT,6.97,acres,https://www.zillow.com/homedetails/20717-E-Covina-Hills-Rd-Covina-CA-91724/136535138_zpid/
+157,91740,Glendora,34.122684,-117.87975,750000.0,3.0,3.0,1688.0,SINGLE_FAMILY,5938.0,sqft,https://www.zillow.com/homedetails/927-La-Serena-Dr-Glendora-CA-91740/21636687_zpid/
+158,91740,Glendora,34.114017,-117.88069,1598888.0,4.0,6.0,3907.0,SINGLE_FAMILY,0.4540863177226814,acres,https://www.zillow.com/homedetails/939-W-Gladstone-St-Glendora-CA-91740/2056061701_zpid/
+159,91741,Glendora,34.140255,-117.851944,1275000.0,3.0,4.0,1910.0,SINGLE_FAMILY,0.26170798898071623,acres,https://www.zillow.com/homedetails/318-N-Glenwood-Ave-Glendora-CA-91741/21643833_zpid/
+160,91740,Glendora,34.109047,-117.85394,749000.0,2.0,4.0,1232.0,SINGLE_FAMILY,7802.0,sqft,https://www.zillow.com/homedetails/1642-Suffolk-Pl-Glendora-CA-91740/21644659_zpid/
+161,91741,Glendora,34.145943,-117.86708,675000.0,1.0,3.0,1238.0,SINGLE_FAMILY,7388.0,sqft,https://www.zillow.com/homedetails/627-N-Vermont-Ave-Glendora-CA-91741/21638324_zpid/
+162,91740,Glendora,34.115223,-117.84955,799000.0,2.0,4.0,1383.0,SINGLE_FAMILY,8915.0,sqft,https://www.zillow.com/homedetails/744-E-Dover-St-Glendora-CA-91740/21640470_zpid/
+163,91740,Glendora,34.127636,-117.85405,214950.0,2.0,3.0,1100.0,MANUFACTURED,,,https://www.zillow.com/homedetails/732-E-Route-66-18-Glendora-CA-91740/2057090059_zpid/
+164,91740,Glendora,34.10814,-117.862724,139900.0,2.0,2.0,850.0,MANUFACTURED,,,https://www.zillow.com/homedetails/1700-S-Glendora-Ave-14-Glendora-CA-91740/2056170191_zpid/
+165,91741,Glendora,34.133533,-117.88028,152500.0,2.0,2.0,1440.0,MANUFACTURED,,,https://www.zillow.com/homedetails/208-S-Barranca-Ave-SPC-33-Glendora-CA-91741/2118837447_zpid/
+166,91741,Glendora,34.14388,-117.84748,908000.0,2.0,4.0,1678.0,SINGLE_FAMILY,8518.0,sqft,https://www.zillow.com/homedetails/1024-E-Laurel-Ave-Glendora-CA-91741/21643998_zpid/
+167,91741,Glendora,34.13364,-117.84102,1099999.0,2.0,4.0,2541.0,SINGLE_FAMILY,8606.0,sqft,https://www.zillow.com/homedetails/220-S-San-Jose-Dr-Glendora-CA-91741/21646743_zpid/
+168,91741,Glendora,34.135044,-117.83862,580000.0,2.0,2.0,1174.0,CONDO,6.7492,acres,https://www.zillow.com/homedetails/114-Oak-Forest-Cir-Glendora-CA-91741/21646836_zpid/
+169,91740,Glendora,34.11317,-117.86608,849950.0,2.0,3.0,1242.0,SINGLE_FAMILY,7758.0,sqft,https://www.zillow.com/homedetails/178-W-Norgate-St-Glendora-CA-91740/21641760_zpid/
+170,91741,Glendora,34.137913,-117.82283,2490000.0,5.0,5.0,4562.0,SINGLE_FAMILY,0.5124426078971533,acres,https://www.zillow.com/homedetails/219-Morgan-Ranch-Rd-Glendora-CA-91741/21648048_zpid/
+171,91741,Glendora,34.13408,-117.87935,179900.0,2.0,2.0,1500.0,MANUFACTURED,,,https://www.zillow.com/homedetails/208-S-Barranca-Ave-SPACE-17-Glendora-CA-91741/136707033_zpid/
+172,91740,Glendora,34.119003,-117.8475,1398000.0,3.0,5.0,3352.0,SINGLE_FAMILY,0.31930670339761247,acres,https://www.zillow.com/homedetails/663-Foxbrook-Dr-Glendora-CA-91740/21642278_zpid/
+173,91741,Glendora,34.146015,-117.81608,9495000.0,6.0,6.0,8863.0,SINGLE_FAMILY,1.0961,acres,https://www.zillow.com/homedetails/658-Oakhill-Dr-Glendora-CA-91741/250225816_zpid/
+174,91740,Glendora,34.11618,-117.847946,799000.0,2.0,4.0,1430.0,SINGLE_FAMILY,7697.0,sqft,https://www.zillow.com/homedetails/1244-York-Ave-Glendora-CA-91740/21640516_zpid/
+175,91741,Glendora,34.128014,-117.82118,1700000.0,4.0,5.0,3293.0,SINGLE_FAMILY,9234.0,sqft,https://www.zillow.com/homedetails/2273-Shady-Oaks-Rd-Glendora-CA-91741/60116054_zpid/
+176,91740,Glendora,34.119606,-117.87616,695000.0,2.0,3.0,1154.0,SINGLE_FAMILY,5973.0,sqft,https://www.zillow.com/homedetails/722-W-Galatea-St-Glendora-CA-91740/21635815_zpid/
+177,91741,Glendora,34.152084,-117.867424,950000.0,1.0,2.0,864.0,SINGLE_FAMILY,5.1656,acres,https://www.zillow.com/homedetails/947-N-Glendora-Ave-Glendora-CA-91741/21637719_zpid/
+178,91741,Glendora,34.1487,-117.85332,1175000.0,3.0,4.0,2042.0,SINGLE_FAMILY,0.26696510560146924,acres,https://www.zillow.com/homedetails/746-Prima-Vera-Rd-Glendora-CA-91741/21643583_zpid/
+179,91741,Glendora,34.128796,-117.822334,1598000.0,3.0,4.0,2996.0,SINGLE_FAMILY,9356.0,sqft,https://www.zillow.com/homedetails/2239-Swiftwater-Way-Glendora-CA-91741/59893794_zpid/
+180,91740,Glendora,34.11682,-117.84494,715000.0,2.0,2.0,1290.0,SINGLE_FAMILY,4517.0,sqft,https://www.zillow.com/homedetails/915-Shady-Ln-Glendora-CA-91740/21640597_zpid/
+181,91741,Glendora,34.143238,-117.836586,1200000.0,3.0,3.0,2700.0,SINGLE_FAMILY,0.298,acres,https://www.zillow.com/homedetails/425-Fern-Dell-Pl-Glendora-CA-91741/21648155_zpid/
+182,91741,Glendora,34.134678,-117.84599,799000.0,1.0,3.0,1349.0,SINGLE_FAMILY,9817.0,sqft,https://www.zillow.com/homedetails/146-S-Loraine-Ave-Glendora-CA-91741/21646387_zpid/
+183,91741,Glendora,34.143017,-117.865845,1374888.0,4.0,4.0,2900.0,SINGLE_FAMILY,7500.0,sqft,https://www.zillow.com/homedetails/453-N-Glendora-Ave-Glendora-CA-91741/79805396_zpid/
+184,91741,Glendora,34.13635,-117.852264,1100000.0,2.0,3.0,1992.0,SINGLE_FAMILY,9711.0,sqft,https://www.zillow.com/homedetails/809-E-Foothill-Blvd-Glendora-CA-91741/21644182_zpid/
+185,91740,Glendora,34.127636,-117.85405,214950.0,2.0,2.0,1100.0,MANUFACTURED,,,https://www.zillow.com/homedetails/732-E-Route-66-25-Glendora-CA-91740/2057090060_zpid/
+186,91741,Glendora,34.15259,-117.86146,279580.0,,,,LOT,3.1498,acres,https://www.zillow.com/homedetails/415-E-Conifer-Rd-Glendora-CA-91741/2067242002_zpid/
+187,91740,Glendora,34.119003,-117.8475,685000.0,3.0,3.0,1860.0,TOWNHOUSE,4.712,acres,https://www.zillow.com/homedetails/984-S-Glendora-Ave-Glendora-CA-91740/21642254_zpid/
+188,91740,Glendora,34.12204,-117.842064,2475000.0,4.0,4.0,4828.0,SINGLE_FAMILY,3.631,acres,https://www.zillow.com/homedetails/1000-Sunflower-Ave-Glendora-CA-91740/63094351_zpid/
+189,91740,Glendora,34.116177,-117.851974,735000.0,2.0,3.0,1185.0,SINGLE_FAMILY,0.46111111111111114,acres,https://www.zillow.com/homedetails/1250-S-Stephora-Ave-Glendora-CA-91740/21640370_zpid/
+190,91741,Glendora,34.145737,-117.850174,949000.0,2.0,3.0,1499.0,SINGLE_FAMILY,9646.0,sqft,https://www.zillow.com/homedetails/844-E-Northridge-Ave-Glendora-CA-91741/21643691_zpid/
+191,91741,Glendora,34.132233,-117.848915,900000.0,2.0,4.0,1637.0,SINGLE_FAMILY,10787.0,sqft,https://www.zillow.com/homedetails/951-E-Ada-Ave-Glendora-CA-91741/21644401_zpid/
+192,91740,Glendora,34.119804,-117.88016,769000.0,2.0,4.0,1834.0,SINGLE_FAMILY,5970.0,sqft,https://www.zillow.com/homedetails/839-W-Galatea-St-Glendora-CA-91740/21636127_zpid/
+193,91740,Glendora,34.11445,-117.85563,730000.0,3.0,3.0,1633.0,CONDO,1.0,acres,https://www.zillow.com/homedetails/1365-Bonnie-Cove-Ave-Glendora-CA-91740/244500187_zpid/
+194,91741,Glendora,34.130768,-117.861046,1600000.0,4.0,8.0,3600.0,MULTI_FAMILY,0.3631542699724518,acres,https://www.zillow.com/homedetails/409-E-Lemon-Ave-Glendora-CA-91741/21639272_zpid/
+195,91741,Glendora,34.14716,-117.88614,1299999.0,3.0,4.0,2124.0,SINGLE_FAMILY,0.5164600550964187,acres,https://www.zillow.com/homedetails/1123-W-Sierra-Madre-Ave-Glendora-CA-91741/21658149_zpid/
+196,91740,Glendora,34.109737,-117.85655,810000.0,2.0,3.0,1264.0,SINGLE_FAMILY,0.2524793388429752,acres,https://www.zillow.com/homedetails/1622-Windsor-Pl-Glendora-CA-91740/21641368_zpid/
+197,91741,Glendora,34.137188,-117.81873,2490000.0,6.0,6.0,6113.0,SINGLE_FAMILY,1.6216,acres,https://www.zillow.com/homedetails/135-Edgemont-Pl-Glendora-CA-91741/21648135_zpid/
+198,91741,Glendora,34.152134,-117.86092,475000.0,,,,LOT,3.75,acres,https://www.zillow.com/homedetails/0-Conifer-Rd-Glendora-CA-91741/2062631584_zpid/
+199,91740,Glendora,34.10993,-117.84069,1190000.0,3.0,4.0,2204.0,SINGLE_FAMILY,0.317860422405877,acres,https://www.zillow.com/homedetails/1140-E-Juanita-Ave-Glendora-CA-91740/21645541_zpid/
+200,91741,Glendora,34.13586,-117.84598,899999.0,2.0,3.0,1360.0,SINGLE_FAMILY,10114.0,sqft,https://www.zillow.com/homedetails/1102-E-Foothill-Blvd-Glendora-CA-91741/21646381_zpid/
+201,91741,Glendora,34.13686,-117.875916,819000.0,4.0,3.0,1870.0,TOWNHOUSE,0.8266988062442608,acres,https://www.zillow.com/homedetails/623-W-Foothill-Blvd-UNIT-39-Glendora-CA-91741/244501467_zpid/
+202,91741,Glendora,34.152767,-117.85447,1100000.0,1.0,2.0,768.0,SINGLE_FAMILY,0.8742883379247015,acres,https://www.zillow.com/homedetails/981-Glencoe-Heights-Dr-Glendora-CA-91741/21638137_zpid/
+203,91702,Azusa,34.172623,-117.85754,710000.0,4.0,4.0,1846.0,TOWNHOUSE,,,https://www.zillow.com/homedetails/315-N-Edenfield-Ave-Azusa-CA-91702/302794768_zpid/
+204,91741,Glendora,34.152374,-117.86141,264530.0,,,,LOT,0.9955004591368227,acres,https://www.zillow.com/homedetails/445-E-Conifer-Rd-Glendora-CA-91741/2065477147_zpid/
+205,91741,Glendora,34.143677,-117.86621,3500000.0,,,,LOT,2.5,acres,https://www.zillow.com/homedetails/0-W-Leadora-Ave-Glendora-CA-91741/2056297021_zpid/
+206,91741,Glendora,,,25000.0,,,,LOT,2503.0,sqft,https://www.zillow.com/homedetails/0-0-Glendora-CA-91741/2094869468_zpid/
+207,91773,San Dimas,34.13607,-117.809296,3370000.0,5.0,4.0,4715.0,SINGLE_FAMILY,0.5,acres,https://www.zillow.com/homedetails/1625-Brasada-Ln-San-Dimas-CA-91773/2068447902_zpid/
+208,91740,Glendora,,,522000.0,,,,LOT,0.25381083562901746,acres,https://www.zillow.com/homedetails/0-Bonnie-Cove-Ave-Glendora-CA-91740/2065658512_zpid/
+209,91740,Glendora,,,698000.0,,,,LOT,4.9364,acres,https://www.zillow.com/homedetails/0-Elkhorn-Ln-Glendora-CA-91740/2109625875_zpid/
+210,91741,Glendora,34.14374,-117.83108,948000.0,,,,LOT,2.6648,acres,https://www.zillow.com/homedetails/0-Bluebird-Rd-Glendora-CA-91741/2122608501_zpid/
+211,91741,Glendora,34.130787,-117.863434,825000.0,,,,LOT,10700.0,sqft,https://www.zillow.com/homedetails/422-S-Glendora-Ave-Glendora-CA-91741/21639297_zpid/
+212,91741,Glendora,34.14023,-117.83825,4200000.0,,,,LOT,3.8205,acres,https://www.zillow.com/homedetails/1449-E-Bennett-Ave-Glendora-CA-91741/21647080_zpid/
+213,91741,Glendora,34.147045,-117.81688,999000.0,,,,LOT,1.1065,acres,https://www.zillow.com/homedetails/648-Gordon-Highlands-Rd-Glendora-CA-91741/2091248161_zpid/
+214,91741,Glendora,34.145695,-117.815025,1200000.0,,,,LOT,2.0188,acres,https://www.zillow.com/homedetails/664-Gordon-Highlands-Rd-Glendora-CA-91741/250225815_zpid/
+215,91740,Glendora,34.128613,-117.83427,6800000.0,,,,LOT,3.6,acres,https://www.zillow.com/homedetails/1706-E-Route-66-Glendora-CA-91740/21645624_zpid/
+216,91702,Azusa,34.107277,-117.92246,179900.0,2.0,2.0,1000.0,MANUFACTURED,,,https://www.zillow.com/homedetails/1081-W-Arrow-Hwy-SPACE-13-Azusa-CA-91702/136706538_zpid/
+217,91702,Azusa,34.122677,-117.914764,590000.0,1.0,1.0,492.0,SINGLE_FAMILY,0.3044077134986226,acres,https://www.zillow.com/homedetails/666-W-Duell-St-Azusa-CA-91702/21628669_zpid/
+218,91702,Azusa,34.118706,-117.90682,199999.0,,,,LOT,10383.75,sqft,https://www.zillow.com/homedetails/101-E-Azusa-Ln-Azusa-CA-91702/21627824_zpid/
+219,91702,Azusa,34.15385,-117.90986,510000.0,2.0,2.0,1007.0,CONDO,7.5612,acres,https://www.zillow.com/homedetails/209-Evergreen-Ct-69-Azusa-CA-91702/2056085329_zpid/
+220,91702,Azusa,34.14354,-117.92341,418000.0,1.0,2.0,771.0,CONDO,0.7833103764921947,acres,https://www.zillow.com/homedetails/1123-W-Sierra-Madre-Ave-APT-4-Azusa-CA-91702/21629313_zpid/
+221,91702,Azusa,34.127,-117.892525,639900.0,3.0,3.0,1642.0,CONDO,0.38822314049586776,acres,https://www.zillow.com/homedetails/321-N-Edenfield-Ave-Azusa-CA-91702/302795350_zpid/
+222,91702,Azusa,34.147434,-117.90608,695000.0,2.0,4.0,1951.0,SINGLE_FAMILY,0.7056244260789716,acres,https://www.zillow.com/homedetails/215-E-Sierra-Madre-Ave-Azusa-CA-91702/21658222_zpid/
+223,91702,Azusa,34.117992,-117.88327,698888.0,2.0,3.0,1254.0,SINGLE_FAMILY,6846.0,sqft,https://www.zillow.com/homedetails/18838-E-Armstead-St-Azusa-CA-91702/21635145_zpid/
+224,91702,Azusa,34.141186,-117.89721,1470000.0,4.0,4.0,3771.0,SINGLE_FAMILY,5882.0,sqft,https://www.zillow.com/homedetails/671-E-Tangerine-St-Azusa-CA-91702/124263409_zpid/
+225,91702,Azusa,34.13238,-117.89292,109000.0,1.0,2.0,880.0,MANUFACTURED,,,https://www.zillow.com/homedetails/840-E-Foothill-Blvd-SPACE-38-Azusa-CA-91702/136706734_zpid/
+226,91702,Azusa,34.127,-117.892525,699900.0,4.0,4.0,1685.0,TOWNHOUSE,0.38822314049586776,acres,https://www.zillow.com/homedetails/327-N-Edenfield-Ave-Azusa-CA-91702/302795388_zpid/
+227,91702,Azusa,34.12549,-117.91765,635000.0,1.0,3.0,1198.0,SINGLE_FAMILY,5867.0,sqft,https://www.zillow.com/homedetails/232-N-Virginia-Ave-Azusa-CA-91702/21628544_zpid/
+228,91702,Azusa,34.108334,-117.89116,488800.0,1.0,2.0,910.0,CONDO,1.2234,acres,https://www.zillow.com/homedetails/777-S-Citrus-Ave-APT-239-Azusa-CA-91702/79800616_zpid/
+229,91702,Azusa,34.116146,-117.88882,823000.0,2.0,4.0,1284.0,SINGLE_FAMILY,6856.0,sqft,https://www.zillow.com/homedetails/931-E-Gaillard-St-Azusa-CA-91702/21634856_zpid/
+230,91702,Azusa,34.1081,-117.90643,130000.0,2.0,3.0,960.0,MANUFACTURED,,,https://www.zillow.com/homedetails/830-S-Azusa-Ave-TRAILER-57-Azusa-CA-91702/136706712_zpid/
+231,91702,Azusa,34.13796,-117.89745,945000.0,3.0,3.0,2679.0,SINGLE_FAMILY,3109.0,sqft,https://www.zillow.com/homedetails/910-N-Cornejo-Way-Azusa-CA-91702/95581795_zpid/
+232,91702,Azusa,34.14495,-117.906586,849900.0,2.0,3.0,1223.0,SINGLE_FAMILY,10303.0,sqft,https://www.zillow.com/homedetails/1317-N-Alameda-Ave-Azusa-CA-91702/21624647_zpid/
+233,91702,Azusa,34.144146,-117.898254,1350000.0,5.0,4.0,3597.0,SINGLE_FAMILY,6541.0,sqft,https://www.zillow.com/homedetails/652-E-Desert-Willow-Rd-Azusa-CA-91702/244498563_zpid/
+234,91702,Azusa,34.14459,-117.89676,1148000.0,3.0,4.0,2658.0,SINGLE_FAMILY,5335.0,sqft,https://www.zillow.com/homedetails/681-E-Lemon-Swirl-Dr-Azusa-CA-91702/95591170_zpid/
+235,91702,Azusa,34.146484,-117.89201,1490000.0,4.0,4.0,3244.0,SINGLE_FAMILY,6673.0,sqft,https://www.zillow.com/homedetails/830-E-McKeller-Ct-Azusa-CA-91702/122726700_zpid/
+236,91702,Azusa,34.11587,-117.89658,758000.0,2.0,4.0,1800.0,SINGLE_FAMILY,6060.0,sqft,https://www.zillow.com/homedetails/5657-N-Rockvale-Ave-Azusa-CA-91702/21632783_zpid/
+237,91702,Azusa,34.1138,-117.89244,630000.0,1.0,3.0,1180.0,SINGLE_FAMILY,5837.0,sqft,https://www.zillow.com/homedetails/5521-N-Edenfield-Ave-Azusa-CA-91702/21631859_zpid/
+238,91702,Azusa,34.13737,-117.89283,624900.0,3.0,2.0,1216.0,CONDO,0.5712580348943985,acres,https://www.zillow.com/homedetails/842-Iris-Way-UNIT-B-Azusa-CA-91702/325797335_zpid/
+239,91702,Azusa,34.144936,-117.89609,958000.0,4.0,4.0,2369.0,CONDO,2766.0,sqft,https://www.zillow.com/homedetails/661-E-Lavender-Way-Azusa-CA-91702/302686930_zpid/
+240,91702,Azusa,34.12732,-117.90411,1099000.0,0.0,,,MULTI_FAMILY,7254.0,sqft,https://www.zillow.com/homedetails/329-N-Soldano-Ave-Azusa-CA-91702/21626494_zpid/
+241,91702,Azusa,34.126915,-117.90461,1440000.0,6.0,4.0,2870.0,MULTI_FAMILY,7450.0,sqft,https://www.zillow.com/homedetails/316-N-Dalton-Ave-Azusa-CA-91702/21626509_zpid/
+242,91702,Azusa,34.13183,-117.89666,1175000.0,,6.0,3554.0,MULTI_FAMILY,7419.0,sqft,https://www.zillow.com/homedetails/603-N-Rockvale-Ave-Azusa-CA-91702/21626862_zpid/
+243,91702,Azusa,34.131996,-117.89667,1920000.0,8.0,8.0,5182.0,MULTI_FAMILY,0.30488980716253444,acres,https://www.zillow.com/homedetails/619-N-Rockvale-Ave-Azusa-CA-91702/21626861_zpid/
+244,91702,Azusa,34.132088,-117.90789,798000.0,,,,LOT,7043.0,sqft,https://www.zillow.com/homedetails/609-N-Azusa-Ave-Azusa-CA-91702/2129844871_zpid/
+245,91702,Azusa,,,1233000.0,,,,LOT,0.4792240587695133,acres,https://www.zillow.com/homedetails/890-E-Gladstone-St-Azusa-CA-91702/2122034887_zpid/
+246,91773,San Dimas,34.131306,-117.79131,970000.0,2.0,3.0,2017.0,SINGLE_FAMILY,9452.0,sqft,https://www.zillow.com/homedetails/881-Deerflats-Dr-San-Dimas-CA-91773/21651381_zpid/
+247,91773,San Dimas,34.104145,-117.830894,225000.0,2.0,3.0,1600.0,MANUFACTURED,,,https://www.zillow.com/homedetails/1245-W-Cienega-Ave-SPACE-122-San-Dimas-CA-91773/136704657_zpid/
+248,91773,San Dimas,34.098286,-117.84092,170000.0,2.0,2.0,1200.0,MANUFACTURED,,,https://www.zillow.com/homedetails/1630-W-Covina-Blvd-SPACE-73-San-Dimas-CA-91773/136705515_zpid/
+249,91740,Glendora,34.113922,-117.824615,1598888.0,4.0,6.0,3907.0,SINGLE_FAMILY,0.46441689623507804,acres,https://www.zillow.com/homedetails/937-W-Gladstone-St-Glendora-CA-91740/2080810761_zpid/
+250,91773,San Dimas,34.125416,-117.813354,599800.0,2.0,3.0,1076.0,SINGLE_FAMILY,2144.0,sqft,https://www.zillow.com/homedetails/411-Heatherglen-Ln-San-Dimas-CA-91773/21649618_zpid/
+251,91773,San Dimas,34.125015,-117.81169,630000.0,3.0,3.0,1240.0,CONDO,1832.0,sqft,https://www.zillow.com/homedetails/1296-Tarryglen-Ln-San-Dimas-CA-91773/21649518_zpid/
+252,91773,San Dimas,,,4800000.0,6.0,5.0,6135.0,SINGLE_FAMILY,0.99,acres,https://www.zillow.com/homedetails/1507-Country-Point-Ln-San-Dimas-CA-91773/2078859359_zpid/
+253,91773,San Dimas,34.10799,-117.80557,799900.0,2.0,3.0,1206.0,SINGLE_FAMILY,7126.416,sqft,https://www.zillow.com/homedetails/135-E-1st-St-San-Dimas-CA-91773/21530783_zpid/
+254,91773,San Dimas,34.077473,-117.81853,1499000.0,3.0,4.0,2980.0,SINGLE_FAMILY,0.4599862258953168,acres,https://www.zillow.com/homedetails/526-Calle-Santa-Barbara-San-Dimas-CA-91773/63094029_zpid/
+255,91773,San Dimas,34.104145,-117.830894,350000.0,2.0,2.0,1534.0,MANUFACTURED,,,https://www.zillow.com/homedetails/1245-W-Cienega-Ave-SPC-141-San-Dimas-CA-91773/336478339_zpid/
+256,91773,San Dimas,34.103745,-117.81267,749888.0,2.0,3.0,1202.0,SINGLE_FAMILY,6698.0,sqft,https://www.zillow.com/homedetails/327-W-Nubia-St-San-Dimas-CA-91773/21530310_zpid/
+257,91773,San Dimas,34.13321,-117.7858,974000.0,2.0,4.0,1840.0,SINGLE_FAMILY,9144.0,sqft,https://www.zillow.com/homedetails/1916-Grasscreek-Dr-San-Dimas-CA-91773/21651839_zpid/
+258,91773,San Dimas,34.11728,-117.81306,1049999.0,3.0,5.0,2800.0,SINGLE_FAMILY,8101.0,sqft,https://www.zillow.com/homedetails/336-W-Allen-Ave-San-Dimas-CA-91773/21532919_zpid/
+259,91773,San Dimas,34.09717,-117.80393,599000.0,3.0,3.0,1452.0,SINGLE_FAMILY,1401.0,sqft,https://www.zillow.com/homedetails/762-Knollwood-Ln-San-Dimas-CA-91773/21527369_zpid/
+260,91773,San Dimas,34.09991,-117.80426,569000.0,3.0,2.0,1320.0,TOWNHOUSE,1684.0,sqft,https://www.zillow.com/homedetails/230-Teague-Dr-San-Dimas-CA-91773/21527943_zpid/
+261,91773,San Dimas,34.07959,-117.83168,999950.0,3.0,5.0,2174.0,SINGLE_FAMILY,0.2577823691460055,acres,https://www.zillow.com/homedetails/1305-Paseo-Nogales-San-Dimas-CA-91773/21533602_zpid/
+262,91773,San Dimas,34.100708,-117.84104,220000.0,3.0,4.0,1623.0,MANUFACTURED,,,https://www.zillow.com/homedetails/1635-W-Covina-Blvd-103-San-Dimas-CA-91773/2057178601_zpid/
+263,91773,San Dimas,34.127625,-117.80861,1200000.0,2.0,3.0,2371.0,SINGLE_FAMILY,0.6770661157024793,acres,https://www.zillow.com/homedetails/1397-N-Shirlmar-Ave-San-Dimas-CA-91773/21651334_zpid/
+264,91773,San Dimas,34.09774,-117.80713,530000.0,3.0,3.0,1496.0,CONDO,1778.0,sqft,https://www.zillow.com/homedetails/610-Briarwood-Ln-San-Dimas-CA-91773/21527573_zpid/
+265,91773,San Dimas,34.120663,-117.80758,749999.0,2.0,3.0,1482.0,SINGLE_FAMILY,6534.0,sqft,https://www.zillow.com/homedetails/105-W-Alford-St-San-Dimas-CA-91773/21649169_zpid/
+266,91773,San Dimas,34.123077,-117.801285,1450000.0,4.0,7.0,3611.0,SINGLE_FAMILY,0.49315886134067954,acres,https://www.zillow.com/homedetails/1136-Cherokee-Ct-San-Dimas-CA-91773/21649377_zpid/
+267,91773,San Dimas,34.09559,-117.833565,1150000.0,3.0,4.0,1828.0,SINGLE_FAMILY,7544.0,sqft,https://www.zillow.com/homedetails/805-Sheffield-Ct-San-Dimas-CA-91773/21529678_zpid/
+268,91773,San Dimas,34.09994,-117.82419,175000.0,2.0,3.0,1248.0,MANUFACTURED,,,https://www.zillow.com/homedetails/801-W-Covina-Blvd-SPACE-25-San-Dimas-CA-91773/136704752_zpid/
+269,91773,San Dimas,34.09799,-117.80528,615000.0,3.0,3.0,1452.0,TOWNHOUSE,1784.0,sqft,https://www.zillow.com/homedetails/708-Knollwood-Ln-San-Dimas-CA-91773/21527414_zpid/
+270,91773,San Dimas,34.114204,-117.81755,1271000.0,3.0,3.0,2486.0,SINGLE_FAMILY,0.3665289256198347,acres,https://www.zillow.com/homedetails/539-W-Gladstone-St-San-Dimas-CA-91773/21532973_zpid/
+271,91773,San Dimas,34.10038,-117.840935,165900.0,2.0,3.0,880.0,MANUFACTURED,,,https://www.zillow.com/homedetails/1635-W-Covina-Blvd-SPACE-66-San-Dimas-CA-91773/136705303_zpid/
+272,91773,San Dimas,34.104145,-117.830894,109000.0,2.0,2.0,1344.0,MANUFACTURED,,,https://www.zillow.com/homedetails/1245-W-Cienega-Ave-SPACE-132-San-Dimas-CA-91773/136704663_zpid/
+273,91773,San Dimas,34.09994,-117.82419,195000.0,2.0,2.0,1056.0,MANUFACTURED,,,https://www.zillow.com/homedetails/801-W-Covina-Blvd-SPACE-7-San-Dimas-CA-91773/136704736_zpid/
+274,91773,San Dimas,34.123425,-117.808304,680000.0,1.0,0.0,575.0,SINGLE_FAMILY,0.35,acres,https://www.zillow.com/homedetails/127-Ashvale-Dr-San-Dimas-CA-91773/21649219_zpid/
+275,91773,San Dimas,34.080383,-117.82382,1050000.0,2.0,3.0,1692.0,SINGLE_FAMILY,9227.0,sqft,https://www.zillow.com/homedetails/1703-Avenida-Entrada-San-Dimas-CA-91773/21534055_zpid/
+276,91773,San Dimas,34.08507,-117.85202,3400000.0,7.0,4.0,6640.0,SINGLE_FAMILY,0.8132001836547291,acres,https://www.zillow.com/homedetails/1391-Manchester-Rd-San-Dimas-CA-91773/21545914_zpid/
+277,91773,San Dimas,34.139847,-117.775116,1198000.0,3.0,3.0,2040.0,SINGLE_FAMILY,0.44224058769513314,acres,https://www.zillow.com/homedetails/1444-Caballo-Ranch-Rd-San-Dimas-CA-91773/21656706_zpid/
+278,91773,San Dimas,34.09478,-117.829094,998000.0,3.0,4.0,2100.0,SINGLE_FAMILY,4975.0,sqft,https://www.zillow.com/homedetails/838-Windermere-Rd-San-Dimas-CA-91773/21529490_zpid/
+279,91773,San Dimas,34.100975,-117.83115,842000.0,2.0,3.0,1708.0,SINGLE_FAMILY,0.29634986225895316,acres,https://www.zillow.com/homedetails/1139-Stratford-Ln-San-Dimas-CA-91773/21529034_zpid/
+280,91773,San Dimas,,,139000.0,2.0,2.0,1240.0,MANUFACTURED,,,https://www.zillow.com/homedetails/1245-W-Cienega-Ave-162-San-Dimas-CA-91773/2061797421_zpid/
+281,91773,San Dimas,34.134834,-117.80929,3650000.0,6.0,5.0,6261.0,SINGLE_FAMILY,0.6028925619834711,acres,https://www.zillow.com/homedetails/1517-Country-Point-Ln-San-Dimas-CA-91773/2056519002_zpid/
+282,91773,San Dimas,34.137238,-117.80801,2990000.0,5.0,4.0,4476.0,SINGLE_FAMILY,0.5810835629017447,acres,https://www.zillow.com/homedetails/1641-Brasada-Ln-San-Dimas-CA-91773/2056519150_zpid/
+283,91773,San Dimas,34.13172,-117.81056,3800000.0,5.0,4.0,4657.0,SINGLE_FAMILY,,,https://www.zillow.com/community/brasada-estates/2070760828_zpid/
+284,91773,San Dimas,34.13172,-117.81056,3700000.0,5.0,4.0,4553.0,SINGLE_FAMILY,,,https://www.zillow.com/community/brasada-estates/2070760832_zpid/
+285,91773,San Dimas,34.13172,-117.81056,3900000.0,6.0,5.0,6135.0,SINGLE_FAMILY,,,https://www.zillow.com/community/brasada-estates/2070760826_zpid/
+286,91773,San Dimas,34.10976,-117.80161,5300000.0,,,,LOT,3.17,acres,https://www.zillow.com/homedetails/300-N-Walnut-Ave-San-Dimas-CA-91773/21531026_zpid/
+287,91773,San Dimas,34.13172,-117.81056,3900000.0,5.0,4.0,5411.0,SINGLE_FAMILY,,,https://www.zillow.com/community/brasada-estates/2070760833_zpid/
+288,91773,San Dimas,34.138084,-117.80803,4100000.0,6.0,5.0,5937.0,SINGLE_FAMILY,0.65,acres,https://www.zillow.com/homedetails/1807-Canyon-Oaks-Ln-San-Dimas-CA-91773/2060663383_zpid/
+289,91773,San Dimas,34.137447,-117.80767,3690000.0,5.0,4.0,4870.0,SINGLE_FAMILY,0.6091827364554637,acres,https://www.zillow.com/homedetails/1803-Canyon-Oaks-Ln-San-Dimas-CA-91773/2057133957_zpid/
+290,91773,San Dimas,34.13172,-117.81056,3700000.0,5.0,4.0,4476.0,SINGLE_FAMILY,,,https://www.zillow.com/community/brasada-estates/2070760829_zpid/
+291,91773,San Dimas,34.06701,-117.82684,889000.0,,,,LOT,1.9122,acres,https://www.zillow.com/homedetails/1043-Via-Romales-San-Dimas-CA-91773/136535790_zpid/
+292,91773,San Dimas,34.138584,-117.80866,4120000.0,6.0,5.0,6156.0,SINGLE_FAMILY,0.76,acres,https://www.zillow.com/homedetails/1815-Canyon-Oaks-Ln-San-Dimas-CA-91773/2060663655_zpid/
+293,91773,San Dimas,34.13172,-117.81056,3700000.0,5.0,5.0,4920.0,SINGLE_FAMILY,,,https://www.zillow.com/community/brasada-estates/2060430421_zpid/
+294,91773,San Dimas,34.13172,-117.81056,3900000.0,6.0,5.0,5937.0,SINGLE_FAMILY,,,https://www.zillow.com/community/brasada-estates/2070760830_zpid/
+295,91773,San Dimas,34.0972,-117.8007,650000.0,,,,LOT,1.0148,acres,https://www.zillow.com/homedetails/678-S-Walnut-Ave-San-Dimas-CA-91773/2095617957_zpid/
+296,91773,San Dimas,34.09865,-117.799774,799900.0,,,,LOT,1.7146,acres,https://www.zillow.com/homedetails/402-E-De-Anza-Heights-Dr-San-Dimas-CA-91773/249998165_zpid/
+297,91773,San Dimas,34.13172,-117.81056,3800000.0,5.0,4.0,4827.0,SINGLE_FAMILY,,,https://www.zillow.com/community/brasada-estates/2060430420_zpid/
+298,91773,San Dimas,,,505000.0,,,,LOT,0.71,acres,https://www.zillow.com/homedetails/1500-N-Cataract-Ave-San-Dimas-CA-91773/2063003028_zpid/
+299,91773,San Dimas,,,2160000.0,,,,LOT,0.7632460973370064,acres,https://www.zillow.com/homedetails/1656-Brasada-Ln-San-Dimas-CA-91773/2075586406_zpid/
+300,91773,San Dimas,34.092686,-117.82805,2500000.0,,,,LOT,4.899,acres,https://www.zillow.com/homedetails/1046-Southcliff-St-San-Dimas-CA-91773/21529166_zpid/
+301,91773,San Dimas,,,2190000.0,,,,LOT,0.74,acres,https://www.zillow.com/homedetails/1660-Brasada-Ln-San-Dimas-CA-91773/2075584406_zpid/
+302,91773,San Dimas,,,2530000.0,,,,LOT,1.38,acres,https://www.zillow.com/homedetails/1911-Spur-Ridge-Trl-San-Dimas-CA-91773/2081318539_zpid/
+303,91773,San Dimas,34.108086,-117.834694,1650000.0,,,,LOT,1.32,acres,https://www.zillow.com/homedetails/1353-W-Arrow-Hwy-San-Dimas-CA-91773/21528596_zpid/
+304,91773,San Dimas,,,2610000.0,,,,LOT,1.02,acres,https://www.zillow.com/homedetails/1902-Spur-Ridge-Trl-San-Dimas-CA-91773/2081322846_zpid/
+305,91773,San Dimas,,,3000000.0,,,,LOT,79.2432,acres,https://www.zillow.com/homedetails/8678-30th-San-Dimas-CA-91773/2066445351_zpid/
+306,91750,La Verne,34.116177,-117.76159,208888.0,2.0,2.0,1536.0,MANUFACTURED,,,https://www.zillow.com/homedetails/4095-Fruit-St-SPC-105-La-Verne-CA-91750/2095018052_zpid/
+307,91750,La Verne,34.12404,-117.76598,1299800.0,3.0,5.0,2795.0,SINGLE_FAMILY,10741.0,sqft,https://www.zillow.com/homedetails/4748-Raymond-Dr-La-Verne-CA-91750/21652294_zpid/
+308,91750,La Verne,34.10455,-117.760216,868800.0,2.0,4.0,1880.0,SINGLE_FAMILY,7808.0,sqft,https://www.zillow.com/homedetails/2914-N-White-Ave-La-Verne-CA-91750/21524398_zpid/
+309,91750,La Verne,34.125168,-117.78223,999800.0,3.0,4.0,2500.0,SINGLE_FAMILY,10055.0,sqft,https://www.zillow.com/homedetails/4800-Hale-Ave-La-Verne-CA-91750/21650053_zpid/
+310,91750,La Verne,34.11281,-117.755264,79900.0,2.0,2.0,1248.0,MANUFACTURED,,,https://www.zillow.com/homedetails/3945-Bradford-St-SPACE-25-La-Verne-CA-91750/136707431_zpid/
+311,91750,La Verne,34.116123,-117.78133,129000.0,2.0,2.0,1150.0,MANUFACTURED,,,https://www.zillow.com/homedetails/3620-Moreno-Ave-SPACE-135-La-Verne-CA-91750/2056092443_zpid/
+312,91750,La Verne,34.142902,-117.7714,858000.0,3.0,5.0,1908.0,SINGLE_FAMILY,10808.0,sqft,https://www.zillow.com/homedetails/1769-Harper-Ct-La-Verne-CA-91750/21656750_zpid/
+313,91750,La Verne,34.13385,-117.77332,1099000.0,3.0,4.0,2239.0,SINGLE_FAMILY,7991.0,sqft,https://www.zillow.com/homedetails/6058-Via-Naranjo-La-Verne-CA-91750/21651060_zpid/
+314,91750,La Verne,34.11526,-117.78269,289900.0,2.0,3.0,1456.0,MANUFACTURED,,,https://www.zillow.com/homedetails/3530-Damien-Ave-SPACE-159-La-Verne-CA-91750/136705188_zpid/
+315,91750,La Verne,34.141018,-117.75811,1125000.0,3.0,4.0,2043.0,SINGLE_FAMILY,5883.0,sqft,https://www.zillow.com/homedetails/6794-Angus-Dr-La-Verne-CA-91750/21657173_zpid/
+316,91750,La Verne,34.148754,-117.75493,1725000.0,6.0,6.0,4610.0,SINGLE_FAMILY,0.27311753902662994,acres,https://www.zillow.com/homedetails/2564-Lunes-La-Verne-CA-91750/21657711_zpid/
+317,91750,La Verne,34.10364,-117.78106,868000.0,3.0,4.0,1502.0,MULTI_FAMILY,7218.0,sqft,https://www.zillow.com/homedetails/1467-3rd-St-La-Verne-CA-91750/21526848_zpid/
+318,91750,La Verne,34.11526,-117.78269,289900.0,2.0,3.0,1512.0,MANUFACTURED,,,https://www.zillow.com/homedetails/3530-Damien-Ave-SPACE-54-La-Verne-CA-91750/136705129_zpid/
+319,91750,La Verne,34.0931,-117.759476,233000.0,2.0,3.0,1152.0,MANUFACTURED,,,https://www.zillow.com/homedetails/2717-Arrow-Hwy-SPACE-7-La-Verne-CA-91750/136704391_zpid/
+320,91750,La Verne,34.116177,-117.76159,125000.0,2.0,2.0,1152.0,MANUFACTURED,,,https://www.zillow.com/homedetails/4095-Fruit-St-115-La-Verne-CA-91750/2056229948_zpid/
+321,91750,La Verne,34.11526,-117.78269,215000.0,2.0,3.0,1200.0,MANUFACTURED,,,https://www.zillow.com/homedetails/3530-Damien-Ave-138-La-Verne-CA-91750/2061809021_zpid/
+322,91750,La Verne,34.13825,-117.75672,1280000.0,3.0,3.0,2319.0,SINGLE_FAMILY,7095.0,sqft,https://www.zillow.com/homedetails/2666-Peacock-Pl-La-Verne-CA-91750/21657433_zpid/
+323,91750,La Verne,34.13858,-117.775406,2300000.0,6.0,6.0,5023.0,SINGLE_FAMILY,0.37095959595959593,acres,https://www.zillow.com/homedetails/6776-Colina-De-Oro-La-Verne-CA-91750/145645791_zpid/
+324,91750,La Verne,34.112144,-117.755066,365000.0,2.0,2.0,2108.0,MANUFACTURED,,,https://www.zillow.com/homedetails/3800-Bradford-St-5-La-Verne-CA-91750/2069987773_zpid/
+325,91750,La Verne,34.112392,-117.7692,799000.0,3.0,3.0,1854.0,CONDO,0.8802800734618916,acres,https://www.zillow.com/homedetails/1951-Valentine-Cir-La-Verne-CA-91750/122234449_zpid/
+326,91750,La Verne,34.114162,-117.7634,654990.0,3.0,3.0,1493.0,TOWNHOUSE,,,https://www.zillow.com/community/verdana/2057117853_zpid/
+327,91750,La Verne,34.112144,-117.755066,195000.0,2.0,2.0,1440.0,MANUFACTURED,,,https://www.zillow.com/homedetails/3800-Bradford-St-SPACE-189-La-Verne-CA-91750/136707572_zpid/
+328,91750,La Verne,34.14302,-117.75506,2850000.0,5.0,5.0,4214.0,SINGLE_FAMILY,0.34919651056014694,acres,https://www.zillow.com/homedetails/2709-Saddle-Creek-Ct-La-Verne-CA-91750/119939548_zpid/
+329,91750,La Verne,34.141197,-117.75807,1074950.0,3.0,3.0,1907.0,SINGLE_FAMILY,6630.0,sqft,https://www.zillow.com/homedetails/6816-Angus-Dr-La-Verne-CA-91750/21657174_zpid/
+330,91750,La Verne,34.121387,-117.776344,1200000.0,2.0,4.0,1701.0,SINGLE_FAMILY,7804.0,sqft,https://www.zillow.com/homedetails/1432-Base-Line-Rd-La-Verne-CA-91750/21650733_zpid/
+331,91750,La Verne,34.144608,-117.764565,1550000.0,3.0,5.0,3216.0,SINGLE_FAMILY,0.497910927456382,acres,https://www.zillow.com/homedetails/2136-Durango-Ct-La-Verne-CA-91750/21657245_zpid/
+332,91750,La Verne,34.116177,-117.76159,178999.0,2.0,2.0,1440.0,MANUFACTURED,,,https://www.zillow.com/homedetails/4095-Fruit-St-SPACE-829-La-Verne-CA-91750/2059092683_zpid/
+333,91750,La Verne,34.141396,-117.75075,1699000.0,5.0,5.0,3999.0,SINGLE_FAMILY,0.34439853076216714,acres,https://www.zillow.com/homedetails/3182-Mockingbird-Knls-La-Verne-CA-91750/21657409_zpid/
+334,91750,La Verne,34.120342,-117.75502,370000.0,,,,LOT,0.34655647382920113,acres,https://www.zillow.com/homedetails/406-Baseline-Rd-La-Verne-CA-91750/136637178_zpid/
+335,91750,La Verne,34.116177,-117.76159,399900.0,0.0,0.0,0.0,MANUFACTURED,,,https://www.zillow.com/homedetails/4095-Fruit-St-702-La-Verne-CA-91750/2056358352_zpid/
+336,91750,La Verne,34.126938,-117.779366,1399000.0,3.0,3.0,2272.0,SINGLE_FAMILY,0.34552341597796143,acres,https://www.zillow.com/homedetails/1261-Aldersgate-Dr-La-Verne-CA-91750/21650095_zpid/
+337,91750,La Verne,34.12426,-117.7659,1080000.0,3.0,4.0,2267.0,SINGLE_FAMILY,0.2625573921028466,acres,https://www.zillow.com/homedetails/4760-Raymond-Dr-La-Verne-CA-91750/21652295_zpid/
+338,91750,La Verne,34.116177,-117.76159,220000.0,2.0,3.0,1536.0,MANUFACTURED,,,https://www.zillow.com/homedetails/4095-Fruit-St-882-La-Verne-CA-91750/2056483159_zpid/
+339,91750,La Verne,34.112144,-117.755066,179500.0,2.0,2.0,1344.0,MANUFACTURED,,,https://www.zillow.com/homedetails/3800-Bradford-St-SPACE-81-La-Verne-CA-91750/2058049190_zpid/
+340,91750,La Verne,34.158806,-117.748,99000000.0,,,,LOT,197.0,acres,https://www.zillow.com/homedetails/6300-Stephens-Ranch-Rd-La-Verne-CA-91750/21656575_zpid/
+341,91750,La Verne,34.11526,-117.78269,160000.0,2.0,2.0,1440.0,MANUFACTURED,,,https://www.zillow.com/homedetails/3530-Damien-Ave-SPACE-88-La-Verne-CA-91750/136705150_zpid/
+342,91750,La Verne,34.13871,-117.774345,995000.0,2.0,3.0,1762.0,SINGLE_FAMILY,9612.0,sqft,https://www.zillow.com/homedetails/6545-Canterwood-Rd-La-Verne-CA-91750/21656717_zpid/
+343,91750,La Verne,34.122303,-117.76947,1100000.0,3.0,4.0,2302.0,SINGLE_FAMILY,9728.0,sqft,https://www.zillow.com/homedetails/1916-Vinewood-St-La-Verne-CA-91750/21650591_zpid/
+344,91750,La Verne,34.116177,-117.76159,349000.0,2.0,3.0,1477.0,MANUFACTURED,,,https://www.zillow.com/homedetails/4095-Fruit-St-521-La-Verne-CA-91750/2057507731_zpid/
+345,91750,La Verne,,,620251.0,3.0,2.0,1243.0,CONDO,,,https://www.zillow.com/homedetails/3704-Verdana-Cir-La-Verne-CA-91750/2056258697_zpid/
+346,91750,La Verne,34.09218,-117.75852,130000.0,2.0,2.0,1440.0,MANUFACTURED,,,https://www.zillow.com/homedetails/2755-Arrow-Hwy-SPACE-9-La-Verne-CA-91750/136704277_zpid/
+347,91750,La Verne,34.114162,-117.7634,694990.0,4.0,3.0,1618.0,TOWNHOUSE,,,https://www.zillow.com/community/verdana/2057117851_zpid/
+348,91750,La Verne,34.112144,-117.755066,439900.0,2.0,3.0,1566.0,MANUFACTURED,,,https://www.zillow.com/homedetails/3800-Bradford-St-SPACE-202-La-Verne-CA-91750/2058128635_zpid/
+349,91750,La Verne,34.128292,-117.7527,450000.0,,,,LOT,5.45,acres,https://www.zillow.com/homedetails/0-Broken-Spur-Rd-La-Verne-CA-91750/2084273367_zpid/
+350,91750,La Verne,,,698990.0,4.0,3.0,1618.0,CONDO,,,https://www.zillow.com/homedetails/3716-Verdana-Cir-La-Verne-CA-91750/2057232211_zpid/
+351,91750,La Verne,34.114162,-117.7634,620990.0,3.0,2.0,1243.0,TOWNHOUSE,,,https://www.zillow.com/community/verdana/2057117852_zpid/
+352,91750,La Verne,34.116177,-117.76159,379900.0,2.0,3.0,1344.0,MANUFACTURED,,,https://www.zillow.com/homedetails/4095-Fruit-St-163-La-Verne-CA-91750/2058169965_zpid/
+353,91750,La Verne,34.122166,-117.76619,530000.0,,,,LOT,,,https://www.zillow.com/homedetails/16-Esperanza-Dr-16-La-Verne-CA-91750/2068605557_zpid/
+354,91750,La Verne,34.122166,-117.76619,530000.0,0.0,,,LOT,,,https://www.zillow.com/homedetails/16-Esperanza-Dr-La-Verne-CA-91750/2071747467_zpid/
+355,91750,La Verne,34.11099,-117.75179,289000.0,2.0,2.0,1788.0,MANUFACTURED,,,https://www.zillow.com/homedetails/3800-Bradford-Space-St-117-La-Verne-CA-91750/2057738199_zpid/
+356,91750,La Verne,34.125977,-117.7653,530000.0,,,,LOT,,,https://www.zillow.com/homedetails/15-Yucca-Cir-15-La-Verne-CA-91750/2068605409_zpid/
+357,91750,La Verne,34.116177,-117.76159,389900.0,2.0,3.0,1512.0,MANUFACTURED,,,https://www.zillow.com/homedetails/4095-Fruit-St-SPACE-410-La-Verne-CA-91750/2057839290_zpid/
+358,91750,La Verne,34.09218,-117.75852,170900.0,2.0,2.0,1080.0,MANUFACTURED,,,https://www.zillow.com/homedetails/2755-Arrow-Hwy-La-Verne-CA-91750/2078653108_zpid/
+359,91773,San Dimas,34.121796,-117.791504,340000.0,,,,LOT,0.4286730945821855,acres,https://www.zillow.com/homedetails/750-E-Foothill-Blvd-San-Dimas-CA-91773/95606846_zpid/
+360,91750,La Verne,34.125977,-117.7653,530000.0,0.0,,,LOT,,,https://www.zillow.com/homedetails/15-Yucca-Cir-La-Verne-CA-91750/2071747465_zpid/
+361,91773,San Dimas,,,775000.0,,,,LOT,6.2304,acres,https://www.zillow.com/homedetails/100-Rawlinsdale-Ln-San-Dimas-CA-91773/2093793343_zpid/
+362,91711,Claremont,34.147243,-117.69829,2000000.0,7.0,5.0,4807.0,SINGLE_FAMILY,0.7728191000918274,acres,https://www.zillow.com/homedetails/1119-Cooke-Ave-Claremont-CA-91711/21656363_zpid/
+363,91711,Claremont,34.089745,-117.71637,679000.0,2.0,3.0,1148.0,SINGLE_FAMILY,6448.0,sqft,https://www.zillow.com/homedetails/326-Springfield-St-Claremont-CA-91711/21502339_zpid/
+364,91711,Claremont,34.086235,-117.72627,650000.0,2.0,3.0,1181.0,SINGLE_FAMILY,8410.0,sqft,https://www.zillow.com/homedetails/525-Geneva-Ave-Claremont-CA-91711/21503145_zpid/
+365,91711,Claremont,34.120773,-117.710396,1298988.0,3.0,4.0,2312.0,SINGLE_FAMILY,7717.0,sqft,https://www.zillow.com/homedetails/2040-Cape-Cod-Ct-Claremont-CA-91711/21655924_zpid/
+366,91711,Claremont,34.119537,-117.70081,523000.0,3.0,2.0,1154.0,TOWNHOUSE,1258.0,sqft,https://www.zillow.com/homedetails/737-Mansfield-Dr-Claremont-CA-91711/21500230_zpid/
+367,91711,Claremont,34.105682,-117.72499,1650000.0,3.0,5.0,3800.0,SINGLE_FAMILY,0.2546831955922865,acres,https://www.zillow.com/homedetails/612-W-12th-St-Claremont-CA-91711/21500904_zpid/
+368,91711,Claremont,34.11952,-117.735565,775000.0,2.0,2.0,1224.0,SINGLE_FAMILY,10518.0,sqft,https://www.zillow.com/homedetails/1962-Wheaton-Ave-Claremont-CA-91711/21497583_zpid/
+369,91711,Claremont,34.1323,-117.73116,1890000.0,4.0,5.0,4133.0,SINGLE_FAMILY,0.328236914600551,acres,https://www.zillow.com/homedetails/2675-San-Andres-Way-Claremont-CA-91711/21654533_zpid/
+370,91711,Claremont,34.110497,-117.72189,775000.0,3.0,3.0,1854.0,TOWNHOUSE,4020.0,sqft,https://www.zillow.com/homedetails/445-Willamette-Ln-Claremont-CA-91711/21499150_zpid/
+371,91711,Claremont,34.121326,-117.714584,1278000.0,3.0,4.0,2261.0,SINGLE_FAMILY,0.34366391184573003,acres,https://www.zillow.com/homedetails/161-E-Blue-Mountain-Way-Claremont-CA-91711/21655427_zpid/
+372,91711,Claremont,34.13613,-117.73169,875000.0,2.0,2.0,1585.0,SINGLE_FAMILY,3069.0,sqft,https://www.zillow.com/homedetails/882-W-Highpoint-Dr-Claremont-CA-91711/21654040_zpid/
+373,91711,Claremont,34.118862,-117.7075,1100000.0,2.0,4.0,2502.0,SINGLE_FAMILY,9630.0,sqft,https://www.zillow.com/homedetails/1912-Pembroke-Ct-Claremont-CA-91711/21499303_zpid/
+374,91711,Claremont,34.148346,-117.701195,1395000.0,3.0,4.0,2500.0,SINGLE_FAMILY,0.32628558310376493,acres,https://www.zillow.com/homedetails/4326-Via-Padova-Claremont-CA-91711/21656280_zpid/
+375,91711,Claremont,34.130875,-117.70529,1350000.0,4.0,6.0,3585.0,SINGLE_FAMILY,0.3862029384756657,acres,https://www.zillow.com/homedetails/3450-Crane-Ct-Claremont-CA-91711/21656083_zpid/
+376,91711,Claremont,34.12396,-117.71404,1350000.0,4.0,6.0,3395.0,SINGLE_FAMILY,0.2626492194674013,acres,https://www.zillow.com/homedetails/2230-Brescia-Ave-Claremont-CA-91711/21656067_zpid/
+377,91711,Claremont,34.134987,-117.702644,2188000.0,6.0,5.0,5573.0,SINGLE_FAMILY,0.5267217630853994,acres,https://www.zillow.com/homedetails/3638-Grand-Ave-Claremont-CA-91711/21655046_zpid/
+378,91711,Claremont,34.11102,-117.73642,988000.0,2.0,4.0,3080.0,SINGLE_FAMILY,10021.0,sqft,https://www.zillow.com/homedetails/1490-N-Towne-Ave-Claremont-CA-91711/95052614_zpid/
+379,91711,Claremont,34.12122,-117.71132,1499000.0,3.0,5.0,4115.0,SINGLE_FAMILY,0.498989898989899,acres,https://www.zillow.com/homedetails/300-E-Baseline-Rd-Claremont-CA-91711/21655935_zpid/
+380,91711,Claremont,34.139786,-117.699135,2148000.0,5.0,4.0,4849.0,SINGLE_FAMILY,0.539485766758494,acres,https://www.zillow.com/homedetails/3838-Newark-Ct-Claremont-CA-91711/21656448_zpid/
+381,91786,Upland,,,694600.0,3.0,3.0,1651.0,CONDO,,,https://www.zillow.com/homedetails/2052-Moonlit-Marsh-Upland-CA-91786/2056138975_zpid/
+382,91711,Claremont,34.122375,-117.73184,1450000.0,3.0,4.0,3135.0,SINGLE_FAMILY,0.38016528925619836,acres,https://www.zillow.com/homedetails/2125-La-Sierra-Way-Claremont-CA-91711/21653825_zpid/
+383,91711,Claremont,34.1211,-117.7349,575000.0,3.0,2.0,1240.0,TOWNHOUSE,0.8117539026629935,acres,https://www.zillow.com/homedetails/1052-Newberry-Ln-Claremont-CA-91711/2084287010_zpid/
+384,91711,Claremont,34.11047,-117.71999,998500.0,2.0,4.0,2000.0,SINGLE_FAMILY,0.28032598714416895,acres,https://www.zillow.com/homedetails/1476-N-Indian-Hill-Blvd-Claremont-CA-91711/21499363_zpid/
+385,91786,Upland,,,712690.0,3.0,3.0,1761.0,CONDO,,,https://www.zillow.com/homedetails/2050-Moonlit-Marsh-Upland-CA-91786/2056139627_zpid/
+386,91711,Claremont,34.109383,-117.72057,869990.0,4.0,4.0,2173.0,TOWNHOUSE,,,https://www.zillow.com/community/docente/2060918950_zpid/
+387,91711,Claremont,,,49999.0,,,,LOT,5442.0,sqft,https://www.zillow.com/homedetails/0-Mt-Baldy-Rd-Claremont-CA-91711/2102686097_zpid/
+388,91711,Claremont,34.109383,-117.72057,725990.0,2.0,2.0,1401.0,TOWNHOUSE,,,https://www.zillow.com/community/docente/2060769822_zpid/
+389,91711,Claremont,34.109383,-117.72057,919990.0,3.0,3.0,1862.0,CONDO,,,https://www.zillow.com/community/docente/2057080360_zpid/
+390,91711,Claremont,34.109383,-117.72057,839990.0,3.0,3.0,1538.0,CONDO,,,https://www.zillow.com/community/docente/2057582574_zpid/
+391,91750,La Verne,34.12857,-117.74497,599999.0,,,,LOT,2.141,acres,https://www.zillow.com/homedetails/4574-Live-Oak-Canyon-Rd-La-Verne-CA-91750/21653999_zpid/
+392,91711,Claremont,34.109383,-117.72057,825990.0,4.0,3.0,1866.0,TOWNHOUSE,,,https://www.zillow.com/community/docente/2060918949_zpid/
+393,91711,Claremont,34.109383,-117.72057,865990.0,4.0,3.0,2182.0,TOWNHOUSE,,,https://www.zillow.com/community/docente/2060918951_zpid/
+394,91711,Claremont,34.109383,-117.72057,989990.0,3.0,3.0,1669.0,SINGLE_FAMILY,,,https://www.zillow.com/community/docente/2057804899_zpid/
+395,91711,Claremont,34.143272,-117.70332,1150000.0,,,,LOT,2.27,acres,https://www.zillow.com/homedetails/4023-Mount-Baldy-Rd-Claremont-CA-91711/21656316_zpid/
+396,91711,Claremont,,,778888.0,,,,LOT,1.1228,acres,https://www.zillow.com/homedetails/0-E-College-Way-Claremont-CA-91711/2075430819_zpid/
+397,91711,Claremont,34.121307,-117.74205,998888.0,,,,LOT,0.46462350780532596,acres,https://www.zillow.com/homedetails/0-Baseline-Rd-Claremont-CA-91711/2064203068_zpid/
+398,91711,Claremont,34.147243,-117.69829,2000000.0,7.0,5.0,4807.0,SINGLE_FAMILY,0.7728191000918274,acres,https://www.zillow.com/homedetails/1119-Cooke-Ave-Claremont-CA-91711/21656363_zpid/
+399,91711,Claremont,34.089745,-117.71637,679000.0,2.0,3.0,1148.0,SINGLE_FAMILY,6448.0,sqft,https://www.zillow.com/homedetails/326-Springfield-St-Claremont-CA-91711/21502339_zpid/
+400,91711,Claremont,34.086235,-117.72627,650000.0,2.0,3.0,1181.0,SINGLE_FAMILY,8410.0,sqft,https://www.zillow.com/homedetails/525-Geneva-Ave-Claremont-CA-91711/21503145_zpid/
+401,91711,Claremont,34.120773,-117.710396,1298988.0,3.0,4.0,2312.0,SINGLE_FAMILY,7717.0,sqft,https://www.zillow.com/homedetails/2040-Cape-Cod-Ct-Claremont-CA-91711/21655924_zpid/
+402,91711,Claremont,34.119537,-117.70081,523000.0,3.0,2.0,1154.0,TOWNHOUSE,1258.0,sqft,https://www.zillow.com/homedetails/737-Mansfield-Dr-Claremont-CA-91711/21500230_zpid/
+403,91711,Claremont,34.105682,-117.72499,1650000.0,3.0,5.0,3800.0,SINGLE_FAMILY,0.2546831955922865,acres,https://www.zillow.com/homedetails/612-W-12th-St-Claremont-CA-91711/21500904_zpid/
+404,91711,Claremont,34.11952,-117.735565,775000.0,2.0,2.0,1224.0,SINGLE_FAMILY,10518.0,sqft,https://www.zillow.com/homedetails/1962-Wheaton-Ave-Claremont-CA-91711/21497583_zpid/
+405,91711,Claremont,34.1323,-117.73116,1890000.0,4.0,5.0,4133.0,SINGLE_FAMILY,0.328236914600551,acres,https://www.zillow.com/homedetails/2675-San-Andres-Way-Claremont-CA-91711/21654533_zpid/
+406,91711,Claremont,34.110497,-117.72189,775000.0,3.0,3.0,1854.0,TOWNHOUSE,4020.0,sqft,https://www.zillow.com/homedetails/445-Willamette-Ln-Claremont-CA-91711/21499150_zpid/
+407,91711,Claremont,34.121326,-117.714584,1278000.0,3.0,4.0,2261.0,SINGLE_FAMILY,0.34366391184573003,acres,https://www.zillow.com/homedetails/161-E-Blue-Mountain-Way-Claremont-CA-91711/21655427_zpid/
+408,91711,Claremont,34.13613,-117.73169,875000.0,2.0,2.0,1585.0,SINGLE_FAMILY,3069.0,sqft,https://www.zillow.com/homedetails/882-W-Highpoint-Dr-Claremont-CA-91711/21654040_zpid/
+409,91711,Claremont,34.118862,-117.7075,1100000.0,2.0,4.0,2502.0,SINGLE_FAMILY,9630.0,sqft,https://www.zillow.com/homedetails/1912-Pembroke-Ct-Claremont-CA-91711/21499303_zpid/
+410,91711,Claremont,34.148346,-117.701195,1395000.0,3.0,4.0,2500.0,SINGLE_FAMILY,0.32628558310376493,acres,https://www.zillow.com/homedetails/4326-Via-Padova-Claremont-CA-91711/21656280_zpid/
+411,91711,Claremont,34.130875,-117.70529,1350000.0,4.0,6.0,3585.0,SINGLE_FAMILY,0.3862029384756657,acres,https://www.zillow.com/homedetails/3450-Crane-Ct-Claremont-CA-91711/21656083_zpid/
+412,91711,Claremont,34.12396,-117.71404,1350000.0,4.0,6.0,3395.0,SINGLE_FAMILY,0.2626492194674013,acres,https://www.zillow.com/homedetails/2230-Brescia-Ave-Claremont-CA-91711/21656067_zpid/
+413,91711,Claremont,34.134987,-117.702644,2188000.0,6.0,5.0,5573.0,SINGLE_FAMILY,0.5267217630853994,acres,https://www.zillow.com/homedetails/3638-Grand-Ave-Claremont-CA-91711/21655046_zpid/
+414,91711,Claremont,34.11102,-117.73642,988000.0,2.0,4.0,3080.0,SINGLE_FAMILY,10021.0,sqft,https://www.zillow.com/homedetails/1490-N-Towne-Ave-Claremont-CA-91711/95052614_zpid/
+415,91711,Claremont,34.12122,-117.71132,1499000.0,3.0,5.0,4115.0,SINGLE_FAMILY,0.498989898989899,acres,https://www.zillow.com/homedetails/300-E-Baseline-Rd-Claremont-CA-91711/21655935_zpid/
+416,91711,Claremont,34.139786,-117.699135,2148000.0,5.0,4.0,4849.0,SINGLE_FAMILY,0.539485766758494,acres,https://www.zillow.com/homedetails/3838-Newark-Ct-Claremont-CA-91711/21656448_zpid/
+417,91786,Upland,,,694600.0,3.0,3.0,1651.0,CONDO,,,https://www.zillow.com/homedetails/2052-Moonlit-Marsh-Upland-CA-91786/2056138975_zpid/
+418,91711,Claremont,34.122375,-117.73184,1450000.0,3.0,4.0,3135.0,SINGLE_FAMILY,0.38016528925619836,acres,https://www.zillow.com/homedetails/2125-La-Sierra-Way-Claremont-CA-91711/21653825_zpid/
+419,91711,Claremont,34.1211,-117.7349,575000.0,3.0,2.0,1240.0,TOWNHOUSE,0.8117539026629935,acres,https://www.zillow.com/homedetails/1052-Newberry-Ln-Claremont-CA-91711/2084287010_zpid/
+420,91711,Claremont,34.11047,-117.71999,998500.0,2.0,4.0,2000.0,SINGLE_FAMILY,0.28032598714416895,acres,https://www.zillow.com/homedetails/1476-N-Indian-Hill-Blvd-Claremont-CA-91711/21499363_zpid/
+421,91786,Upland,,,712690.0,3.0,3.0,1761.0,CONDO,,,https://www.zillow.com/homedetails/2050-Moonlit-Marsh-Upland-CA-91786/2056139627_zpid/
+422,91711,Claremont,34.109383,-117.72057,869990.0,4.0,4.0,2173.0,TOWNHOUSE,,,https://www.zillow.com/community/docente/2060918950_zpid/
+423,91711,Claremont,,,49999.0,,,,LOT,5442.0,sqft,https://www.zillow.com/homedetails/0-Mt-Baldy-Rd-Claremont-CA-91711/2102686097_zpid/
+424,91711,Claremont,34.109383,-117.72057,725990.0,2.0,2.0,1401.0,TOWNHOUSE,,,https://www.zillow.com/community/docente/2060769822_zpid/
+425,91711,Claremont,34.109383,-117.72057,919990.0,3.0,3.0,1862.0,CONDO,,,https://www.zillow.com/community/docente/2057080360_zpid/
+426,91711,Claremont,34.109383,-117.72057,839990.0,3.0,3.0,1538.0,CONDO,,,https://www.zillow.com/community/docente/2057582574_zpid/
+427,91750,La Verne,34.12857,-117.74497,599999.0,,,,LOT,2.141,acres,https://www.zillow.com/homedetails/4574-Live-Oak-Canyon-Rd-La-Verne-CA-91750/21653999_zpid/
+428,91711,Claremont,34.109383,-117.72057,825990.0,4.0,3.0,1866.0,TOWNHOUSE,,,https://www.zillow.com/community/docente/2060918949_zpid/
+429,91711,Claremont,34.109383,-117.72057,865990.0,4.0,3.0,2182.0,TOWNHOUSE,,,https://www.zillow.com/community/docente/2060918951_zpid/
+430,91711,Claremont,34.109383,-117.72057,989990.0,3.0,3.0,1669.0,SINGLE_FAMILY,,,https://www.zillow.com/community/docente/2057804899_zpid/
+431,91711,Claremont,34.143272,-117.70332,1150000.0,,,,LOT,2.27,acres,https://www.zillow.com/homedetails/4023-Mount-Baldy-Rd-Claremont-CA-91711/21656316_zpid/
+432,91711,Claremont,,,778888.0,,,,LOT,1.1228,acres,https://www.zillow.com/homedetails/0-E-College-Way-Claremont-CA-91711/2075430819_zpid/
+433,91711,Claremont,34.121307,-117.74205,998888.0,,,,LOT,0.46462350780532596,acres,https://www.zillow.com/homedetails/0-Baseline-Rd-Claremont-CA-91711/2064203068_zpid/
+434,91706,Baldwin Park,34.075294,-117.95692,549900.0,2.0,2.0,1260.0,SINGLE_FAMILY,3834.0,sqft,https://www.zillow.com/homedetails/3357-Puente-Ave-Baldwin-Park-CA-91706/21561393_zpid/
+435,91706,Baldwin Park,34.087757,-117.98175,549900.0,1.0,2.0,840.0,SINGLE_FAMILY,10355.0,sqft,https://www.zillow.com/homedetails/13317-Morgan-St-Baldwin-Park-CA-91706/21596708_zpid/
+436,91706,Baldwin Park,34.09304,-117.96983,599000.0,2.0,3.0,1128.0,SINGLE_FAMILY,5898.0,sqft,https://www.zillow.com/homedetails/4433-Stewart-Ave-Baldwin-Park-CA-91706/21593511_zpid/
+437,91706,Baldwin Park,34.084618,-117.95233,729999.0,2.0,3.0,1827.0,SINGLE_FAMILY,8004.0,sqft,https://www.zillow.com/homedetails/3947-Big-Dalton-Ave-Baldwin-Park-CA-91706/21550590_zpid/
+438,91706,Baldwin Park,34.065495,-117.96693,79979.0,1.0,1.0,,MANUFACTURED,,,https://www.zillow.com/homedetails/1661-Puente-Ave-TRAILER-26-Baldwin-Park-CA-91706/136706318_zpid/
+439,91706,Baldwin Park,34.08719,-117.96662,799000.0,5.0,6.0,1647.0,SINGLE_FAMILY,8238.0,sqft,https://www.zillow.com/homedetails/4114-La-Rica-Ave-Baldwin-Park-CA-91706/21594867_zpid/
+440,91706,Baldwin Park,34.09269,-117.97402,480000.0,2.0,2.0,1142.0,TOWNHOUSE,1.2552,acres,https://www.zillow.com/homedetails/4415-Merced-Ave-22-Baldwin-Park-CA-91706/2056160895_zpid/
+441,91706,Baldwin Park,34.07198,-117.9962,649000.0,2.0,4.0,1416.0,SINGLE_FAMILY,8362.0,sqft,https://www.zillow.com/homedetails/12735-Waltham-St-Baldwin-Park-CA-91706/21600327_zpid/
+442,91706,Baldwin Park,34.098522,-117.956276,675000.0,2.0,3.0,1483.0,SINGLE_FAMILY,4024.0,sqft,https://www.zillow.com/homedetails/14658-Via-El-Camino-Baldwin-Park-CA-91706/21541760_zpid/
+443,91706,Baldwin Park,34.069942,-117.96997,300000.0,1.0,1.0,578.0,CONDO,,,https://www.zillow.com/homedetails/3030-Vineland-Ave-APT-1-Baldwin-Park-CA-91706/21604022_zpid/
+444,91706,Baldwin Park,34.07713,-117.97001,619990.0,2.0,3.0,920.0,SINGLE_FAMILY,5408.0,sqft,https://www.zillow.com/homedetails/3537-Maine-Ave-Baldwin-Park-CA-91706/21603477_zpid/
+445,91706,Baldwin Park,34.069942,-117.96997,310000.0,1.0,1.0,574.0,CONDO,,,https://www.zillow.com/homedetails/3030-Vineland-Ave-APT-7-Baldwin-Park-CA-91706/21604023_zpid/
+446,91706,Baldwin Park,34.088207,-117.97279,720000.0,2.0,4.0,1265.0,SINGLE_FAMILY,7245.0,sqft,https://www.zillow.com/homedetails/13818-Palm-Ave-Baldwin-Park-CA-91706/21595147_zpid/
+447,91706,Baldwin Park,34.072754,-117.98518,900000.0,2.0,3.0,1200.0,SINGLE_FAMILY,7043.0,sqft,https://www.zillow.com/homedetails/13241-Tracy-St-Baldwin-Park-CA-91706/136581828_zpid/
+448,91706,Baldwin Park,34.080257,-117.9799,900000.0,2.0,4.0,1350.0,MULTI_FAMILY,7412.0,sqft,https://www.zillow.com/homedetails/13419-Athol-St-Baldwin-Park-CA-91706/21601600_zpid/
+449,91706,Baldwin Park,34.09043,-117.97513,445000.0,1.0,2.0,750.0,CONDO,0.9617539026629935,acres,https://www.zillow.com/homedetails/4304-Walnut-St-APT-14-Baldwin-Park-CA-91706/21596951_zpid/
+450,91706,Baldwin Park,34.081444,-117.966515,875000.0,2.0,5.0,1728.0,MULTI_FAMILY,9456.876,sqft,https://www.zillow.com/homedetails/3844-Baldwin-Park-Blvd-Baldwin-Park-CA-91706/21602549_zpid/
+451,91706,Baldwin Park,34.081455,-117.95914,698000.0,2.0,3.0,1116.0,SINGLE_FAMILY,5165.0,sqft,https://www.zillow.com/homedetails/3713-1-2-Vineland-Ave-Baldwin-Park-CA-91706/21603057_zpid/
+452,91706,Baldwin Park,34.092712,-117.97203,515000.0,2.0,3.0,1062.0,CONDO,,,https://www.zillow.com/homedetails/13847-Los-Angeles-St-APT-C-Baldwin-Park-CA-91706/21593319_zpid/
+453,91706,Baldwin Park,34.08508,-117.956024,915000.0,2.0,2.0,966.0,MULTI_FAMILY,6268.0,sqft,https://www.zillow.com/homedetails/14550-Central-Ave-Baldwin-Park-CA-91706/21602925_zpid/
+454,91706,Baldwin Park,34.068203,-117.96482,2200000.0,2.0,5.0,2479.0,SINGLE_FAMILY,0.5484389348025712,acres,https://www.zillow.com/homedetails/1837-Puente-Ave-Baldwin-Park-CA-91706/21604808_zpid/
+455,91706,Baldwin Park,34.07886,-117.97466,829899.0,,,,LOT,0.3861570247933884,acres,https://www.zillow.com/homedetails/13620-Frazier-St-Baldwin-Park-CA-91706/21602099_zpid/
+456,91706,Baldwin Park,34.07802,-117.99505,2200000.0,,,,LOT,0.521900826446281,acres,https://www.zillow.com/homedetails/12714-Ramona-Blvd-Baldwin-Park-CA-91706/95709278_zpid/
