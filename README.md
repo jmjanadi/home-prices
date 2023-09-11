@@ -7,6 +7,16 @@ Then, the relationships between various home features are explored and visualize
 Finally, a regression model is built and optimzed in order to predict the values of homes not included in the data set.
 
 ## 1. Retrieve Data from Zillow
+The first three files are Python scripts intended to be run on the local machine. The first script retrieves the desired
+JSON pages from zillow.com and saves them to disk as a Pickle. The second script loads the saved json pages, extracts the desired
+features for each house, and saves them to disk as a CSV file. Since the JSON pages do not include the years the homes were built,
+a third script is needed to retrieve this information. The third script extracts the year built from the url of each home and saves
+the list of years to disk as a new CSV file.  
+  
+After running these first three scipts in order*, there should be one new Pickle file and two new CSV files saved to disk.  
+
+*Note, the Zillow urls, user agents, and proxy network names were removed from the scripts. In order to run them properly, one needs to
+fill them in with new ones.
 
 ## 2. Clean the Data
 
