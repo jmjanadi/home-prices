@@ -25,7 +25,7 @@ user_agents = ['**user-agent1**',
                 '**user-agent3**']
 headers['User-Agent'] = user_agents[0]
 
-servers = ['**list-of-servers**']
+networks = ['**list-of-proxy-networks**']
 
 with open('years_built.csv', 'w') as y:
     s = 0
