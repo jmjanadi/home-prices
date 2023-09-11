@@ -33,6 +33,7 @@ with open('years_built.csv', 'w') as y:
     for json_page in json_pages:
         for j, home in enumerate(json_page):
             url = home['detailUrl']
+            # change user agent every 10 homes
             if j%10 == 0:
                 user_agent_idx = user_agents.index(headers['User-Agent'])
                 if user_agent_idx == len(user_agents) - 1:
@@ -42,6 +43,7 @@ with open('years_built.csv', 'w') as y:
             page = requests.get(url, headers=headers)
             soup = BeautifulSoup(page.content, 'html.parser')
             result = soup.find_all('span', class_='Text-c11n-8-84-3__sc-aiai24-0 dpf__sc-2arhs5-3 hrfydd kOlNqB')
+            # connect to a new proxy network if nothing is returned
             if len(result) == 0:
                 os.system('**disconnect from current proxy network**')
                 time.sleep(5)
