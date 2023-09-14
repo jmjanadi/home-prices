@@ -2,7 +2,7 @@
 ***
 ## General Info
 This project involves the analysis of the prices of homes located in several cities in the San Gabriel Valley.
-First, home data is scraped from zillow.com and saved to disk as a csv file.
+First, home data is scraped from zillow.com and saved to disk as a CSV file.
 Then, the relationships between various home features are explored and visualized.
 Finally, a regression model is built and optimized in order to predict the values of homes not included in the data set.
 
